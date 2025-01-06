@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Открытые курс: 17(1) №2003">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Открытый курс: 17(2) №2013">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     "Python.task-1-4581.executor": "Run",
     "Python.task-17-2003.executor": "Run",
     "Python.task-17-2013.executor": "Run",
+    "Python.task-17-2015.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -126,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736179746818</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Открытый курс: 17(2) №2013">
+      <option name="closed" value="true" />
+      <created>1736180150639</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736180150639</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +143,7 @@
     <MESSAGE value="задание 5 №19237 (ЕГКР)&#10;24.12.2024" />
     <MESSAGE value="задание 7 №19239 (ЕГКР)&#10;24.12.2024" />
     <MESSAGE value="Открытые курс: 17(1) №2003" />
-    <option name="LAST_COMMIT_MESSAGE" value="Открытые курс: 17(1) №2003" />
+    <MESSAGE value="Открытый курс: 17(2) №2013" />
+    <option name="LAST_COMMIT_MESSAGE" value="Открытый курс: 17(2) №2013" />
   </component>
 </project>
