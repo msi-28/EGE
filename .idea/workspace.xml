@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="задание 7 №19239 (ЕГКР)&#10;24.12.2024">
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Открытые курс: 17(1) №2003">
+      <change beforePath="$PROJECT_DIR$/открытый-курс/17_2003.txt" beforeDir="false" afterPath="$PROJECT_DIR$/открытый-курс/task-17/17_2003.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/открытый-курс/task-17-2003.py" beforeDir="false" afterPath="$PROJECT_DIR$/открытый-курс/task-17/task-17-2003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +29,12 @@
     &quot;assignee&quot;: &quot;msi-28&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/msi-28/EGE.git&quot;,
-    &quot;accountId&quot;: &quot;fd90fb60-677d-4149-89af-00975e7a313a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/msi-28/EGE.git",
+    "accountId": "3fba0570-7a5a-415f-89fb-8927bccdcebd"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -59,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\открытый-курс\task-17" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол" />
     </key>
   </component>
@@ -110,13 +110,22 @@
       <option name="project" value="LOCAL" />
       <updated>1735053804089</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Открытые курс: 17(1) №2003">
+      <option name="closed" value="true" />
+      <created>1736179650496</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736179650496</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="задание 5 №19237 (ЕГКР)&#10;24.12.2024" />
     <MESSAGE value="задание 7 №19239 (ЕГКР)&#10;24.12.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="задание 7 №19239 (ЕГКР)&#10;24.12.2024" />
+    <MESSAGE value="Открытые курс: 17(1) №2003" />
+    <option name="LAST_COMMIT_MESSAGE" value="Открытые курс: 17(1) №2003" />
   </component>
 </project>
