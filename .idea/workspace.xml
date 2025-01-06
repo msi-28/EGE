@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№1998 (триплеты) Примечание: модули при делении!">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№1999 (триплеты) Примечание: в ответе может быть отрицательное число; arithmetic mean - среднее арифметическое">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.task-17-2015.executor": "Run",
     "Python.task-17-2016.executor": "Run",
     "Python.task-17-2017.executor": "Run",
+    "Python.task-17-2402.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -189,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736184487764</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="№1999 (триплеты) Примечание: в ответе может быть отрицательное число; arithmetic mean - среднее арифметическое">
+      <option name="closed" value="true" />
+      <created>1736185428001</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736185428001</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,6 +213,7 @@
     <MESSAGE value="№2017 (пары) Примечание: чтобы получить последную цифру отрицательного числа нужно сначала взять его пот модулю, а уже потом делать %10. В ином случае ответ получится не верным (хз почему)" />
     <MESSAGE value="№1994 (пары)" />
     <MESSAGE value="№1998 (триплеты) Примечание: модули при делении!" />
-    <option name="LAST_COMMIT_MESSAGE" value="№1998 (триплеты) Примечание: модули при делении!" />
+    <MESSAGE value="№1999 (триплеты) Примечание: в ответе может быть отрицательное число; arithmetic mean - среднее арифметическое" />
+    <option name="LAST_COMMIT_MESSAGE" value="№1999 (триплеты) Примечание: в ответе может быть отрицательное число; arithmetic mean - среднее арифметическое" />
   </component>
 </project>
