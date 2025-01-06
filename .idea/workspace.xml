@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№2017 (по-одному числу в списке)">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№2017 (пары) Примечание: чтобы получить последную цифру отрицательного числа нужно сначала взять его пот модулю, а уже потом делать %10. В ином случае ответ получится не верным (хз почему)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "Python.task-1-1845.executor": "Run",
     "Python.task-1-4581.executor": "Run",
     "Python.task-17-1993.executor": "Run",
+    "Python.task-17-1994.executor": "Run",
     "Python.task-17-2003.executor": "Run",
     "Python.task-17-2013.executor": "Run",
     "Python.task-17-2015.executor": "Run",
@@ -162,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736181438140</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="№2017 (пары) Примечание: чтобы получить последную цифру отрицательного числа нужно сначала взять его пот модулю, а уже потом делать %10. В ином случае ответ получится не верным (хз почему)">
+      <option name="closed" value="true" />
+      <created>1736183486051</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736183486051</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,6 +183,7 @@
     <MESSAGE value="№2015 (по-одному числу в списке)" />
     <MESSAGE value="№2016 (по-одному числу в списке)" />
     <MESSAGE value="№2017 (по-одному числу в списке)" />
-    <option name="LAST_COMMIT_MESSAGE" value="№2017 (по-одному числу в списке)" />
+    <MESSAGE value="№2017 (пары) Примечание: чтобы получить последную цифру отрицательного числа нужно сначала взять его пот модулю, а уже потом делать %10. В ином случае ответ получится не верным (хз почему)" />
+    <option name="LAST_COMMIT_MESSAGE" value="№2017 (пары) Примечание: чтобы получить последную цифру отрицательного числа нужно сначала взять его пот модулю, а уже потом делать %10. В ином случае ответ получится не верным (хз почему)" />
   </component>
 </project>
