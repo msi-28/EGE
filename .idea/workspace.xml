@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Открытые курс: 17(1) №2003">
-      <change beforePath="$PROJECT_DIR$/открытый-курс/17_2003.txt" beforeDir="false" afterPath="$PROJECT_DIR$/открытый-курс/task-17/17_2003.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/открытый-курс/task-17-2003.py" beforeDir="false" afterPath="$PROJECT_DIR$/открытый-курс/task-17/task-17-2003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "Python.task-1-1845.executor": "Run",
     "Python.task-1-4581.executor": "Run",
     "Python.task-17-2003.executor": "Run",
+    "Python.task-17-2013.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736179650496</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Открытые курс: 17(1) №2003">
+      <option name="closed" value="true" />
+      <created>1736179746818</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736179746818</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
