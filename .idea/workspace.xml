@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="задание 7 №19239 (ЕГКР)&#10;24.12.2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,10 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.task-1-1845.executor": "Run",
     "Python.task-1-4581.executor": "Run",
-    "Python.task-1-4606.executor": "Run",
-    "Python.task-1-9732.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -103,49 +100,13 @@
       <option name="project" value="LOCAL" />
       <updated>1735053804089</updated>
     </task>
-    <task id="LOCAL-00005" summary="решение 1 задания кодом">
-      <option name="closed" value="true" />
-      <created>1735310921031</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1735310921031</updated>
-    </task>
-    <task id="LOCAL-00006" summary="задание 1 с симметричным графом">
-      <option name="closed" value="true" />
-      <created>1735311700560</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1735311700560</updated>
-    </task>
-    <task id="LOCAL-00007" summary="ответ: 18 (внимательнее следить за ребрами)">
-      <option name="closed" value="true" />
-      <created>1735313296826</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1735313296826</updated>
-    </task>
-    <task id="LOCAL-00008" summary="ответ: 25 (фигура симметричная и выдает 2 варианта, что не влияет на ответ, тк в первом варианте С - 2, Ф - 5, а во втором - наборот. в ответ нужно записать числа в порядке возрастания,так что в обоих случаях ответ 1 - 25)">
-      <option name="closed" value="true" />
-      <created>1735313912066</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1735313912066</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="задание 5 №19237 (ЕГКР)&#10;24.12.2024" />
     <MESSAGE value="задание 7 №19239 (ЕГКР)&#10;24.12.2024" />
-    <MESSAGE value="решение 1 задания кодом" />
-    <MESSAGE value="задание 1 с симметричным графом" />
-    <MESSAGE value="ответ: 18 (внимательнее следить за ребрами)" />
-    <MESSAGE value="ответ: 25 (фигура симметричная и выдает 2 варианта, что не влияет на ответ, тк в первом варианте С - 2, Ф - 5, а во втором - наборот. в ответ нужно записать числа в порядке возрастания,так что в обоих случаях ответ 1 - 25)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ответ: 25 (фигура симметричная и выдает 2 варианта, что не влияет на ответ, тк в первом варианте С - 2, Ф - 5, а во втором - наборот. в ответ нужно записать числа в порядке возрастания,так что в обоих случаях ответ 1 - 25)" />
+    <option name="LAST_COMMIT_MESSAGE" value="задание 7 №19239 (ЕГКР)&#10;24.12.2024" />
   </component>
 </project>
