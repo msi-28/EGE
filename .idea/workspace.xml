@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№1999 (триплеты) Примечание: в ответе может быть отрицательное число; arithmetic mean - среднее арифметическое">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№2402 (триплеты)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Python.task-17-1994.executor": "Run",
     "Python.task-17-1998.executor": "Run",
     "Python.task-17-1999.executor": "Run",
+    "Python.task-17-2002.executor": "Run",
     "Python.task-17-2003.executor": "Run",
     "Python.task-17-2013.executor": "Run",
     "Python.task-17-2015.executor": "Run",
@@ -198,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736185428001</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="№2402 (триплеты)">
+      <option name="closed" value="true" />
+      <created>1736186654976</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736186654976</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,6 +223,7 @@
     <MESSAGE value="№1994 (пары)" />
     <MESSAGE value="№1998 (триплеты) Примечание: модули при делении!" />
     <MESSAGE value="№1999 (триплеты) Примечание: в ответе может быть отрицательное число; arithmetic mean - среднее арифметическое" />
-    <option name="LAST_COMMIT_MESSAGE" value="№1999 (триплеты) Примечание: в ответе может быть отрицательное число; arithmetic mean - среднее арифметическое" />
+    <MESSAGE value="№2402 (триплеты)" />
+    <option name="LAST_COMMIT_MESSAGE" value="№2402 (триплеты)" />
   </component>
 </project>
