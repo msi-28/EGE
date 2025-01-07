@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Сортировка по папкам">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№28">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   "keyToString": {
     "Python.task-1-1845.executor": "Run",
     "Python.task-1-28.executor": "Run",
+    "Python.task-1-29.executor": "Run",
     "Python.task-1-4581.executor": "Run",
     "Python.task-17-1993.executor": "Run",
     "Python.task-17-1994.executor": "Run",
@@ -227,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736245974200</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="№28">
+      <option name="closed" value="true" />
+      <created>1736246903533</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1736246903533</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,6 +266,7 @@
     <MESSAGE value="№2402 (триплеты)" />
     <MESSAGE value="№2002 (четверки)" />
     <MESSAGE value="Сортировка по папкам" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сортировка по папкам" />
+    <MESSAGE value="№28" />
+    <option name="LAST_COMMIT_MESSAGE" value="№28" />
   </component>
 </project>
