@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№2402 (триплеты)">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Сортировка по папкам">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.task-1-1845.executor": "Run",
+    "Python.task-1-28.executor": "Run",
     "Python.task-1-4581.executor": "Run",
     "Python.task-17-1993.executor": "Run",
     "Python.task-17-1994.executor": "Run",
@@ -67,8 +68,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\открытый-курс\task-17" />
-      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол" />
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\открытый-курс\task-17\№2402" />
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\открытый-курс\task-17\№2017" />
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\открытый-курс\task-17\№2016" />
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\открытый-курс\task-17\№2015" />
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\открытый-курс\task-17\№2013" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -207,8 +211,35 @@
       <option name="project" value="LOCAL" />
       <updated>1736186654976</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="№2002 (четверки)">
+      <option name="closed" value="true" />
+      <created>1736245684901</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736245684901</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Сортировка по папкам">
+      <option name="closed" value="true" />
+      <created>1736245974200</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1736245974200</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
@@ -224,6 +255,8 @@
     <MESSAGE value="№1998 (триплеты) Примечание: модули при делении!" />
     <MESSAGE value="№1999 (триплеты) Примечание: в ответе может быть отрицательное число; arithmetic mean - среднее арифметическое" />
     <MESSAGE value="№2402 (триплеты)" />
-    <option name="LAST_COMMIT_MESSAGE" value="№2402 (триплеты)" />
+    <MESSAGE value="№2002 (четверки)" />
+    <MESSAGE value="Сортировка по папкам" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сортировка по папкам" />
   </component>
 </project>
