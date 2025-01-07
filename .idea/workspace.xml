@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="задание 7 №19239 (ЕГКР)&#10;24.12.2024">
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№12246">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +47,7 @@
   "keyToString": {
     "Python.task-1-4581.executor": "Run",
     "Python.task-14-12246.executor": "Run",
+    "Python.task-14-19406.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -103,13 +102,22 @@
       <option name="project" value="LOCAL" />
       <updated>1735053804089</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="№12246">
+      <option name="closed" value="true" />
+      <created>1736258844447</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736258844447</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="задание 5 №19237 (ЕГКР)&#10;24.12.2024" />
     <MESSAGE value="задание 7 №19239 (ЕГКР)&#10;24.12.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="задание 7 №19239 (ЕГКР)&#10;24.12.2024" />
+    <MESSAGE value="№12246" />
+    <option name="LAST_COMMIT_MESSAGE" value="№12246" />
   </component>
 </project>
