@@ -4,3 +4,5 @@ def f(s, e):
     return f(s - 2, e) + f(s // 2, e)
 
 print(f(50, 11) * f(11, 2))
+
+# 48 <- ответ
