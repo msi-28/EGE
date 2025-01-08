@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="-">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sbornik-krilov/krilov-1-variant/task-24-var1/task-24-var1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sbornik-krilov/krilov-1-variant/task-24-var1/task-24-var1.py" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 24. Ответ 123 (не верный)">
+      <change beforePath="$PROJECT_DIR$/sbornik-krilov/krilov-1-variant/task-1-var1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sbornik-krilov/krilov-1-variant/task-1-var1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -394,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736357366420</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Задание 24. Ответ 123 (не верный)">
+      <option name="closed" value="true" />
+      <created>1736357633669</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1736357633669</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="№1994 (пары)" />
     <MESSAGE value="№1998 (триплеты) Примечание: модули при делении!" />
     <MESSAGE value="№1999 (триплеты) Примечание: в ответе может быть отрицательное число; arithmetic mean - среднее арифметическое" />
     <MESSAGE value="№2402 (триплеты)" />
@@ -434,6 +440,7 @@
     <MESSAGE value="Задание 15. Ответ: 82" />
     <MESSAGE value="Задание 17. Ответ: 704 197847" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="Задание 24. Ответ 123 (не верный)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 24. Ответ 123 (не верный)" />
   </component>
 </project>
