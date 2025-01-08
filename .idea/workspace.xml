@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 8. Ответ 3250">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sbornik-krilov/krilov-1-variant/task-11-var1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sbornik-krilov/krilov-1-variant/task-14-var1.py" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 14. Ответ 5768">
+      <change beforePath="$PROJECT_DIR$/sbornik-krilov/krilov-1-variant/task-12-var1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sbornik-krilov/krilov-1-variant/task-12-var1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -442,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736357875044</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Задание 14. Ответ 5768">
+      <option name="closed" value="true" />
+      <created>1736357980965</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1736357980965</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -457,7 +464,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="№28" />
     <MESSAGE value="№29" />
     <MESSAGE value="Задание 1. Ответ: 24" />
     <MESSAGE value="Задание 2. Ответ: xyzw" />
@@ -482,6 +488,7 @@
     <MESSAGE value="Задание 5. Ответ 14" />
     <MESSAGE value="Задание 6. Ответ 34" />
     <MESSAGE value="Задание 8. Ответ 3250" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 8. Ответ 3250" />
+    <MESSAGE value="Задание 14. Ответ 5768" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 14. Ответ 5768" />
   </component>
 </project>

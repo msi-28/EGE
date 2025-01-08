@@ -6,4 +6,4 @@ while '11111' in st or '222' in st:
         st = st.replace('222', '2', 1)
 
 print(st)
-# 221111 <- ответ
+# 221111 <- Ответ
