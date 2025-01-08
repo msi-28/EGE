@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 8. Ответ: 3250">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/krilov-1-variant/task-15-var1.py" beforeDir="false" afterPath="$PROJECT_DIR$/krilov-1-variant/task-15-var1.py" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 15. Ответ: 82">
+      <change beforePath="$PROJECT_DIR$/krilov-1-variant/task-17-var1/task-17-var1.py" beforeDir="false" afterPath="$PROJECT_DIR$/krilov-1-variant/task-17-var1/task-17-var1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -370,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736355320829</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Задание 15. Ответ: 82">
+      <option name="closed" value="true" />
+      <created>1736356656680</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1736356656680</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -385,7 +392,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="№2016 (по-одному числу в списке)" />
     <MESSAGE value="№2017 (по-одному числу в списке)" />
     <MESSAGE value="№2017 (пары) Примечание: чтобы получить последную цифру отрицательного числа нужно сначала взять его пот модулю, а уже потом делать %10. В ином случае ответ получится не верным (хз почему)" />
     <MESSAGE value="№1994 (пары)" />
@@ -410,6 +416,7 @@
     <MESSAGE value="Задание 24. Ответ: 123" />
     <MESSAGE value="Задание 6. Ответ: 30" />
     <MESSAGE value="Задание 8. Ответ: 3250" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 8. Ответ: 3250" />
+    <MESSAGE value="Задание 15. Ответ: 82" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 15. Ответ: 82" />
   </component>
 </project>
