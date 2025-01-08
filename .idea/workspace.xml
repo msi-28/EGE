@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 12. Ответ: 221111" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 14. Ответ: 5768" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +51,7 @@
     "Python.task-1-var1.executor": "Run",
     "Python.task-11-var1.executor": "Run",
     "Python.task-12-var1.executor": "Run",
+    "Python.task-15-var1.executor": "Run",
     "Python.task-17-1993.executor": "Run",
     "Python.task-17-1994.executor": "Run",
     "Python.task-17-1998.executor": "Run",
@@ -298,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736349500249</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Задание 14. Ответ: 5768">
+      <option name="closed" value="true" />
+      <created>1736349829345</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1736349829345</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,6 +345,7 @@
     <MESSAGE value="Задание 6. Ответ: 34" />
     <MESSAGE value="Задание 8. Ответ: 19899" />
     <MESSAGE value="Задание 12. Ответ: 221111" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 12. Ответ: 221111" />
+    <MESSAGE value="Задание 14. Ответ: 5768" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 14. Ответ: 5768" />
   </component>
 </project>
