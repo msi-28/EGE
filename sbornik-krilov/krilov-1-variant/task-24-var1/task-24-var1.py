@@ -13,3 +13,4 @@ st = st.replace(' +', ' ').replace('+ ', ' ')
 st = st.split()
 
 print(len(max(st, key=len)))
+# ответ: 123
