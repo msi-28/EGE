@@ -9,4 +9,4 @@ for N in range(1, 10_000):
         print(N)
         break
 
-# 14 <- ответ
+# 14 <- Ответ
