@@ -8,6 +8,11 @@ for s in product('012345', repeat = 6):
         if int(i) % 2 != 0:
             s = s.replace(i, '*')
     c2 = '*0' not in s and '0*' not in s
-    if c1 and c2:
+    c3 = s.count('0') == 1
+    if c1 and c2 and c3:
         cnt += 1
 print(cnt)
+
+# 19899 <- ответ(-)
+# Примечание: читай внимательнее господи боже
+# (ответ: 3250)
