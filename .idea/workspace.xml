@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 2. Ответ yzwx">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 5. Ответ 63" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +72,7 @@
     "Python.task-24-var1.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "Python.task-5-var1.executor": "Run",
+    "Python.task-5-var2.executor": "Run",
     "Python.task-6-var1.executor": "Run",
     "Python.task-8-var1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -106,14 +105,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00004" summary="задание 7 №19239 (ЕГКР)&#10;24.12.2024">
-      <option name="closed" value="true" />
-      <created>1735053804089</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1735053804089</updated>
     </task>
     <task id="LOCAL-00005" summary="Открытые курс: 17(1) №2003">
       <option name="closed" value="true" />
@@ -499,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736372813753</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Задание 5. Ответ 63">
+      <option name="closed" value="true" />
+      <created>1736373709293</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1736373709293</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 14. Ответ: 5768" />
     <MESSAGE value="Задание 15. Ответ: 91" />
     <MESSAGE value="Задание 16. Ответ: 165968" />
     <MESSAGE value="Задание 17. Ответ: 6 99107" />
@@ -539,6 +537,7 @@
     <MESSAGE value="Задание 17. Ответ 704 197847" />
     <MESSAGE value="Задание 1. Ответ 25" />
     <MESSAGE value="Задание 2. Ответ yzwx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 2. Ответ yzwx" />
+    <MESSAGE value="Задание 5. Ответ 63" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 5. Ответ 63" />
   </component>
 </project>
