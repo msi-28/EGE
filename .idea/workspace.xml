@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 1. Ответ: 24">
-      <change afterPath="$PROJECT_DIR$/krilov-1-variant/task-2-var1.py" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 2. Ответ: xyzw">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,7 @@
     "Python.task-17-2402.executor": "Run",
     "Python.task-2-var1.executor": "Run",
     "Python.task-5-19237.executor": "Run",
+    "Python.task-5-var1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -255,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736344536768</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Задание 2. Ответ: xyzw">
+      <option name="closed" value="true" />
+      <created>1736344935765</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1736344935765</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +297,7 @@
     <MESSAGE value="№28" />
     <MESSAGE value="№29" />
     <MESSAGE value="Задание 1. Ответ: 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 1. Ответ: 24" />
+    <MESSAGE value="Задание 2. Ответ: xyzw" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 2. Ответ: xyzw" />
   </component>
 </project>
