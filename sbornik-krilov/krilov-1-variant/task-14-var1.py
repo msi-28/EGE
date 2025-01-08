@@ -9,3 +9,5 @@ for x in range(1, 5769):
     if cnt == 1026:
         ans = x
 print(ans)
+
+# 5768 <- ответ
