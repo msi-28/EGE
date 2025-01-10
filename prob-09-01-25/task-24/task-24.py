@@ -1,5 +1,3 @@
-from pstats import count_calls
-
 with open('24_11636.txt') as file:
     st = file.readline()
 
