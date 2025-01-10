@@ -4,7 +4,7 @@ with open('17_11949.txt') as file:
 def duo(arr):
     cnt = 0
     for i in arr:
-        if len(str(i)) == 2:
+        if len(str(abs(i))) == 2: # <- здесь изначально не было модуля (abs(i)), но его нужно было добавлять аааа
             cnt += 1
     return cnt
 
@@ -28,4 +28,6 @@ for i in range(len(ls)-3):
 
 print(cnt, max_sum)
 
-# ans -> 34 247177
+# ans -> 34 247177 (-)
+
+# c_ans -> 75 247177
