@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 5. Ответ 63" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 5. Ответ 63">
+      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,46 +45,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.task-1-1845.executor": "Run",
-    "Python.task-1-28.executor": "Run",
-    "Python.task-1-29.executor": "Run",
-    "Python.task-1-32.executor": "Run",
-    "Python.task-1-4581.executor": "Run",
-    "Python.task-1-var1.executor": "Run",
-    "Python.task-11-var1.executor": "Run",
-    "Python.task-12-var1.executor": "Run",
-    "Python.task-15-var1.executor": "Run",
-    "Python.task-16-var1.executor": "Run",
-    "Python.task-17-1993.executor": "Run",
-    "Python.task-17-1994.executor": "Run",
-    "Python.task-17-1998.executor": "Run",
-    "Python.task-17-1999.executor": "Run",
-    "Python.task-17-2002.executor": "Run",
-    "Python.task-17-2003.executor": "Run",
-    "Python.task-17-2013.executor": "Run",
-    "Python.task-17-2015.executor": "Run",
-    "Python.task-17-2016.executor": "Run",
-    "Python.task-17-2017.executor": "Run",
-    "Python.task-17-2402.executor": "Run",
-    "Python.task-17-var1.executor": "Run",
-    "Python.task-2-var1.executor": "Run",
-    "Python.task-2-var2.executor": "Run",
-    "Python.task-23-var1.executor": "Run",
-    "Python.task-24-var1-BO.executor": "Run",
-    "Python.task-24-var1.executor": "Run",
-    "Python.task-5-19237.executor": "Run",
-    "Python.task-5-var1.executor": "Run",
-    "Python.task-5-var2.executor": "Run",
-    "Python.task-6-var1.executor": "Run",
-    "Python.task-8-var1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.task-1-1845.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-1-28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-1-29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-1-32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-1-4581.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-1-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-11-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-12-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-15-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-16-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-1993.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-1994.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-1998.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-1999.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-2002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-2003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-2013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-2015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-2016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-2017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-2402.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-17-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-2-var2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-23-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-24-var1-BO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-24-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-5-19237.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-5-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-5-var2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-6-var1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task-8-var1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\sbornik-krilov" />
