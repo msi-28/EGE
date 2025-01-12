@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="открытый курс №71. ответ: yxwz">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="открытый курс №46. ответ: xzyw" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +63,7 @@
     "Python.task-2-46.executor": "Run",
     "Python.task-2-71.executor": "Run",
     "Python.task-2-79.executor": "Run",
+    "Python.task-2-85.executor": "Run",
     "Python.task-2.executor": "Run",
     "Python.task-23.executor": "Run",
     "Python.task-24.executor": "Run",
@@ -272,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736684857035</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="открытый курс №46. ответ: xzyw">
+      <option name="closed" value="true" />
+      <created>1736685239525</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1736685239525</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -295,6 +302,7 @@
     <MESSAGE value="открытый курс №1422. ответ: zxwy" />
     <MESSAGE value="открытый курс №1846. ответ: cdba" />
     <MESSAGE value="открытый курс №71. ответ: yxwz" />
-    <option name="LAST_COMMIT_MESSAGE" value="открытый курс №71. ответ: yxwz" />
+    <MESSAGE value="открытый курс №46. ответ: xzyw" />
+    <option name="LAST_COMMIT_MESSAGE" value="открытый курс №46. ответ: xzyw" />
   </component>
 </project>
