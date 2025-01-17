@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="СР задание 2 ответ cdba">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 2 №13797 ответ: ywxz (выдает 2 одинаковых ответа, это норма)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Python.task-2-1185.executor": "Run",
     "Python.task-2-1267.executor": "Run",
     "Python.task-2-1282.executor": "Run",
+    "Python.task-2-13089.executor": "Run",
     "Python.task-2-1357.executor": "Run",
     "Python.task-2-13797.executor": "Run",
     "Python.task-2-1422.executor": "Run",
@@ -354,11 +355,18 @@
       <option name="project" value="LOCAL" />
       <updated>1737124155732</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Задание 2 №13797 ответ: ywxz (выдает 2 одинаковых ответа, это норма)">
+      <option name="closed" value="true" />
+      <created>1737125587674</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1737125587674</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="№12246" />
     <MESSAGE value="№19406 (прикл)" />
     <MESSAGE value="https://kompege.ru/variant?kim=25075086" />
     <MESSAGE value="№18122" />
@@ -383,6 +391,7 @@
     <MESSAGE value="СР задание 2 ответ wxyz" />
     <MESSAGE value="СР задание 2 ответ wzyx" />
     <MESSAGE value="СР задание 2 ответ cdba" />
-    <option name="LAST_COMMIT_MESSAGE" value="СР задание 2 ответ cdba" />
+    <MESSAGE value="Задание 2 №13797 ответ: ywxz (выдает 2 одинаковых ответа, это норма)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 2 №13797 ответ: ywxz (выдает 2 одинаковых ответа, это норма)" />
   </component>
 </project>
