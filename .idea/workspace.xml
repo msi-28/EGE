@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="вариант 3 задание 2 ответ wzxy">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="СР задание 2 ответ wzyx" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +62,7 @@
     "Python.task-2-1282.executor": "Run",
     "Python.task-2-1357.executor": "Run",
     "Python.task-2-1422.executor": "Run",
+    "Python.task-2-14390.executor": "Run",
     "Python.task-2-1846.executor": "Run",
     "Python.task-2-46.executor": "Run",
     "Python.task-2-71.executor": "Run",
@@ -327,12 +326,26 @@
       <option name="project" value="LOCAL" />
       <updated>1736848255294</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="СР задание 2 ответ wxyz">
+      <option name="closed" value="true" />
+      <created>1737123692697</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1737123692697</updated>
+    </task>
+    <task id="LOCAL-00029" summary="СР задание 2 ответ wzyx">
+      <option name="closed" value="true" />
+      <created>1737123894467</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1737123894467</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
-    <MESSAGE value="задание 5 №19237 (ЕГКР)&#10;24.12.2024" />
     <MESSAGE value="задание 7 №19239 (ЕГКР)&#10;24.12.2024" />
     <MESSAGE value="№12246" />
     <MESSAGE value="№19406 (прикл)" />
@@ -356,6 +369,8 @@
     <MESSAGE value="Задание 15. Тип с отрезками" />
     <MESSAGE value="вариант 3 задание 1 ответ 29" />
     <MESSAGE value="вариант 3 задание 2 ответ wzxy" />
-    <option name="LAST_COMMIT_MESSAGE" value="вариант 3 задание 2 ответ wzxy" />
+    <MESSAGE value="СР задание 2 ответ wxyz" />
+    <MESSAGE value="СР задание 2 ответ wzyx" />
+    <option name="LAST_COMMIT_MESSAGE" value="СР задание 2 ответ wzyx" />
   </component>
 </project>
