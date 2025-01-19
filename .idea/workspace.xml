@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Ответ 17. Вариант 3" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Ответ 392. Вариант 3 Задание 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +102,7 @@
     "Python.task-8-11292.executor": "Run",
     "Python.task-8-13298.executor": "Run",
     "Python.task-8-17627.executor": "Run",
+    "Python.task-8-var3.executor": "Run",
     "Python.task-8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -129,14 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1735050645382</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1735050645382</updated>
     </task>
     <task id="LOCAL-00002" summary="задание 5 №19237 (ЕГКР)&#10;24.12.2024">
       <option name="closed" value="true" />
@@ -522,11 +515,18 @@
       <option name="project" value="LOCAL" />
       <updated>1737299211043</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Ответ 392. Вариант 3 Задание 8">
+      <option name="closed" value="true" />
+      <created>1737299545195</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1737299545196</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 15. Тип с отрезками" />
     <MESSAGE value="вариант 3 задание 1 ответ 29" />
     <MESSAGE value="вариант 3 задание 2 ответ wzxy" />
     <MESSAGE value="СР задание 2 ответ wxyz" />
@@ -551,6 +551,7 @@
     <MESSAGE value="№ 2_454 (5) ответ: доделать&#10;https://kompege.ru/variant?kim=25076534" />
     <MESSAGE value="№ 2_960 (7) ответ: bca&#10;https://kompege.ru/variant?kim=25076534" />
     <MESSAGE value="Ответ 17. Вариант 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ответ 17. Вариант 3" />
+    <MESSAGE value="Ответ 392. Вариант 3 Задание 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ответ 392. Вариант 3 Задание 8" />
   </component>
 </project>
