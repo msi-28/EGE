@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№ 2_960 (7) ответ: bca&#10;https://kompege.ru/variant?kim=25076534" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Ответ 17. Вариант 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +95,7 @@
     "Python.task-5-14330.executor": "Run",
     "Python.task-5-18578.executor": "Run",
     "Python.task-5-19237.executor": "Run",
+    "Python.task-5-var3.executor": "Run",
     "Python.task-5.executor": "Run",
     "Python.task-6.executor": "Run",
     "Python.task-7.executor": "Run",
@@ -513,11 +514,18 @@
       <option name="project" value="LOCAL" />
       <updated>1737298907298</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Ответ 17. Вариант 3">
+      <option name="closed" value="true" />
+      <created>1737299211043</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1737299211043</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 14. Тип с отрезками" />
     <MESSAGE value="Задание 15. Тип с отрезками" />
     <MESSAGE value="вариант 3 задание 1 ответ 29" />
     <MESSAGE value="вариант 3 задание 2 ответ wzxy" />
@@ -542,6 +550,7 @@
     <MESSAGE value="№ 2_816 (6) ответ: yxz&#10;https://kompege.ru/variant?kim=25076534" />
     <MESSAGE value="№ 2_454 (5) ответ: доделать&#10;https://kompege.ru/variant?kim=25076534" />
     <MESSAGE value="№ 2_960 (7) ответ: bca&#10;https://kompege.ru/variant?kim=25076534" />
-    <option name="LAST_COMMIT_MESSAGE" value="№ 2_960 (7) ответ: bca&#10;https://kompege.ru/variant?kim=25076534" />
+    <MESSAGE value="Ответ 17. Вариант 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ответ 17. Вариант 3" />
   </component>
 </project>
