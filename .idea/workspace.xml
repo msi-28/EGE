@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№ 2_18576 (3) ответ: yxwz&#10;https://kompege.ru/variant?kim=25075893">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="№ 2_17621 (4) ответ: zxyw&#10;https://kompege.ru/variant?kim=25075893">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.task-1-19233.executor": "Run",
     "Python.task-1-4581.executor": "Run",
     "Python.task-1-var3.executor": "Run",
     "Python.task-1.executor": "Run",
@@ -426,11 +427,18 @@
       <option name="project" value="LOCAL" />
       <updated>1737284110156</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="№ 2_17621 (4) ответ: zxyw&#10;https://kompege.ru/variant?kim=25075893">
+      <option name="closed" value="true" />
+      <created>1737284914974</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1737284914974</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="открытый курс №1185. ответ: wzxy" />
     <MESSAGE value="открытый курс №79. ответ: wzyx" />
     <MESSAGE value="открытый курс №1267. ответ: wxzy" />
     <MESSAGE value="открытый курс №1282. ответ: zywx" />
@@ -455,6 +463,7 @@
     <MESSAGE value="№ 2_17665 (1) ответ: zyxw&#10;https://kompege.ru/variant?kim=25075893" />
     <MESSAGE value="№ 2_19234 (1) ответ: yxwz&#10;https://kompege.ru/variant?kim=25075893" />
     <MESSAGE value="№ 2_18576 (3) ответ: yxwz&#10;https://kompege.ru/variant?kim=25075893" />
-    <option name="LAST_COMMIT_MESSAGE" value="№ 2_18576 (3) ответ: yxwz&#10;https://kompege.ru/variant?kim=25075893" />
+    <MESSAGE value="№ 2_17621 (4) ответ: zxyw&#10;https://kompege.ru/variant?kim=25075893" />
+    <option name="LAST_COMMIT_MESSAGE" value="№ 2_17621 (4) ответ: zxyw&#10;https://kompege.ru/variant?kim=25075893" />
   </component>
 </project>
