@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Ответ 2500500. Вариант 3 Задание 16">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 2 №13077 ответ: zywx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -46,23 +45,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.task-1-16248.executor": "Run",
-    "Python.task-1-19233.executor": "Run",
     "Python.task-1-4581.executor": "Run",
     "Python.task-1-var3.executor": "Run",
     "Python.task-1.executor": "Run",
     "Python.task-11.executor": "Run",
-    "Python.task-12-var3.executor": "Run",
     "Python.task-12.executor": "Run",
     "Python.task-14-12246.executor": "Run",
     "Python.task-14-18122.executor": "Run",
     "Python.task-14-19406.executor": "Run",
     "Python.task-14-otrezki.executor": "Run",
-    "Python.task-14-var3.executor": "Run",
     "Python.task-14.executor": "Run",
     "Python.task-15-1409.executor": "Run",
     "Python.task-15.executor": "Run",
-    "Python.task-16-var3.executor": "Run",
     "Python.task-16.executor": "Run",
     "Python.task-17.executor": "Run",
     "Python.task-2-1185.executor": "Run",
@@ -75,21 +69,12 @@
     "Python.task-2-13797.executor": "Run",
     "Python.task-2-1422.executor": "Run",
     "Python.task-2-14390.executor": "Run",
-    "Python.task-2-17621.executor": "Run",
-    "Python.task-2-17665.executor": "Run",
     "Python.task-2-1846.executor": "Run",
-    "Python.task-2-18576.executor": "Run",
-    "Python.task-2-19234.executor": "Run",
-    "Python.task-2-454.executor": "Run",
     "Python.task-2-46.executor": "Run",
-    "Python.task-2-6989.executor": "Run",
     "Python.task-2-71.executor": "Run",
     "Python.task-2-7667.executor": "Run",
-    "Python.task-2-78.executor": "Run",
     "Python.task-2-79.executor": "Run",
-    "Python.task-2-816.executor": "Run",
     "Python.task-2-85.executor": "Run",
-    "Python.task-2-960.executor": "Run",
     "Python.task-2-9771.executor": "Run",
     "Python.task-2-var3.executor": "Run",
     "Python.task-2.executor": "Run",
@@ -97,17 +82,13 @@
     "Python.task-24.executor": "Run",
     "Python.task-26.executor": "Run",
     "Python.task-5-14-327.executor": "Run",
-    "Python.task-5-14330.executor": "Run",
     "Python.task-5-18578.executor": "Run",
     "Python.task-5-19237.executor": "Run",
-    "Python.task-5-var3.executor": "Run",
     "Python.task-5.executor": "Run",
     "Python.task-6.executor": "Run",
     "Python.task-7.executor": "Run",
-    "Python.task-8-11292.executor": "Run",
     "Python.task-8-13298.executor": "Run",
     "Python.task-8-17627.executor": "Run",
-    "Python.task-8-var3.executor": "Run",
     "Python.task-8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -135,6 +116,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1735050645382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735050645382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="задание 5 №19237 (ЕГКР)&#10;24.12.2024">
+      <option name="closed" value="true" />
+      <created>1735051337346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735051337346</updated>
+    </task>
+    <task id="LOCAL-00003" summary="задание 5 №19237 (ЕГКР)&#10;24.12.2024">
+      <option name="closed" value="true" />
+      <created>1735052794173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735052794173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="задание 7 №19239 (ЕГКР)&#10;24.12.2024">
+      <option name="closed" value="true" />
+      <created>1735053804089</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735053804089</updated>
     </task>
     <task id="LOCAL-00005" summary="№12246">
       <option name="closed" value="true" />
@@ -368,195 +381,35 @@
       <option name="project" value="LOCAL" />
       <updated>1737126735360</updated>
     </task>
-    <task id="LOCAL-00034" summary="Задание 2 №12671 ответ: wxyz">
-      <option name="closed" value="true" />
-      <created>1737128002599</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1737128002599</updated>
-    </task>
-    <task id="LOCAL-00035" summary="https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737188660815</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1737188660816</updated>
-    </task>
-    <task id="LOCAL-00036" summary="№ 2_17665 (1) ответ: zyxw&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737189229429</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1737189229429</updated>
-    </task>
-    <task id="LOCAL-00037" summary="№ 2_19234 (1) ответ: yxwz&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737189671194</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1737189671194</updated>
-    </task>
-    <task id="LOCAL-00038" summary="№ 2_18576 (3) ответ: yxwz&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737284110156</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1737284110156</updated>
-    </task>
-    <task id="LOCAL-00039" summary="№ 2_17621 (4) ответ: zxyw&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737284914974</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1737284914974</updated>
-    </task>
-    <task id="LOCAL-00040" summary="№ 1_19233 (5) ответ: 11&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737286318849</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1737286318849</updated>
-    </task>
-    <task id="LOCAL-00041" summary="№ 1_16248 (6) ответ: 42&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737286666843</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1737286666843</updated>
-    </task>
-    <task id="LOCAL-00042" summary="№ 5_143330 (7) ответ: 22229&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737287715902</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1737287715902</updated>
-    </task>
-    <task id="LOCAL-00043" summary="№ 8_11292 (8) ответ: 4352&#10;https://kompege.ru/variant?kim=25075893">
-      <option name="closed" value="true" />
-      <created>1737289185984</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1737289185984</updated>
-    </task>
-    <task id="LOCAL-00044" summary="https://kompege.ru/variant?kim=25076534">
-      <option name="closed" value="true" />
-      <created>1737289769966</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1737289769966</updated>
-    </task>
-    <task id="LOCAL-00045" summary="№ 2_78 (4) ответ: ywxz&#10;https://kompege.ru/variant?kim=25076534">
-      <option name="closed" value="true" />
-      <created>1737290551282</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1737290551282</updated>
-    </task>
-    <task id="LOCAL-00046" summary="№ 2_816 (6) ответ: yxz&#10;https://kompege.ru/variant?kim=25076534">
-      <option name="closed" value="true" />
-      <created>1737298470199</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1737298470199</updated>
-    </task>
-    <task id="LOCAL-00047" summary="№ 2_454 (5) ответ: доделать&#10;https://kompege.ru/variant?kim=25076534">
-      <option name="closed" value="true" />
-      <created>1737298490515</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1737298490515</updated>
-    </task>
-    <task id="LOCAL-00048" summary="№ 2_960 (7) ответ: bca&#10;https://kompege.ru/variant?kim=25076534">
-      <option name="closed" value="true" />
-      <created>1737298907298</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1737298907298</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Ответ 17. Вариант 3">
-      <option name="closed" value="true" />
-      <created>1737299211043</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1737299211043</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Ответ 392. Вариант 3 Задание 8">
-      <option name="closed" value="true" />
-      <created>1737299545195</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1737299545196</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Ответ 51. Вариант 3 Задание 12">
-      <option name="closed" value="true" />
-      <created>1737299850923</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1737299850923</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Ответ 972. Вариант 3 Задание 14">
-      <option name="closed" value="true" />
-      <created>1737300054162</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1737300054162</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Ответ 2500500. Вариант 3 Задание 16">
-      <option name="closed" value="true" />
-      <created>1737300301304</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1737300301304</updated>
-    </task>
-    <option name="localTasksCounter" value="54" />
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="№18122" />
+    <MESSAGE value="№18578" />
+    <MESSAGE value="№18578 (решение через Counter (collections))" />
+    <MESSAGE value="№14327 (вместо собстенной функции лучше использовать встроенную (зд. oct))" />
+    <MESSAGE value="№17627" />
+    <MESSAGE value="открытый курс №1185. ответ: wzxy" />
+    <MESSAGE value="открытый курс №79. ответ: wzyx" />
+    <MESSAGE value="открытый курс №1267. ответ: wxzy" />
+    <MESSAGE value="открытый курс №1282. ответ: zywx" />
+    <MESSAGE value="открытый курс №1357. ответ: cadb" />
+    <MESSAGE value="открытый курс №1422. ответ: zxwy" />
+    <MESSAGE value="открытый курс №1846. ответ: cdba" />
+    <MESSAGE value="открытый курс №71. ответ: yxwz" />
+    <MESSAGE value="открытый курс №46. ответ: xzyw" />
+    <MESSAGE value="открытый курс №85. ответ: xwyz" />
+    <MESSAGE value="Задание 14. Тип с отрезками" />
+    <MESSAGE value="Задание 15. Тип с отрезками" />
+    <MESSAGE value="вариант 3 задание 1 ответ 29" />
+    <MESSAGE value="вариант 3 задание 2 ответ wzxy" />
+    <MESSAGE value="СР задание 2 ответ wxyz" />
     <MESSAGE value="СР задание 2 ответ wzyx" />
     <MESSAGE value="СР задание 2 ответ cdba" />
     <MESSAGE value="Задание 2 №13797 ответ: ywxz (выдает 2 одинаковых ответа, это норма)" />
     <MESSAGE value="Задание 2 №13797 ответ: uywzx" />
     <MESSAGE value="Задание 2 №13077 ответ: zywx" />
-    <MESSAGE value="Задание 2 №12671 ответ: wxyz" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="№ 2_17665 (1) ответ: zyxw&#10;https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="№ 2_19234 (1) ответ: yxwz&#10;https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="№ 2_18576 (3) ответ: yxwz&#10;https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="№ 2_17621 (4) ответ: zxyw&#10;https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="№ 1_19233 (5) ответ: 11&#10;https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="№ 1_16248 (6) ответ: 42&#10;https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="№ 5_143330 (7) ответ: 22229&#10;https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="№ 8_11292 (8) ответ: 4352&#10;https://kompege.ru/variant?kim=25075893" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25076534" />
-    <MESSAGE value="№ 2_78 (4) ответ: ywxz&#10;https://kompege.ru/variant?kim=25076534" />
-    <MESSAGE value="№ 2_816 (6) ответ: yxz&#10;https://kompege.ru/variant?kim=25076534" />
-    <MESSAGE value="№ 2_454 (5) ответ: доделать&#10;https://kompege.ru/variant?kim=25076534" />
-    <MESSAGE value="№ 2_960 (7) ответ: bca&#10;https://kompege.ru/variant?kim=25076534" />
-    <MESSAGE value="Ответ 17. Вариант 3" />
-    <MESSAGE value="Ответ 392. Вариант 3 Задание 8" />
-    <MESSAGE value="Ответ 51. Вариант 3 Задание 12" />
-    <MESSAGE value="Ответ 972. Вариант 3 Задание 14" />
-    <MESSAGE value="Ответ 2500500. Вариант 3 Задание 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ответ 2500500. Вариант 3 Задание 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 2 №13077 ответ: zywx" />
   </component>
 </project>
