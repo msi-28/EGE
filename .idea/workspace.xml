@@ -79,6 +79,11 @@
     "Python.task-2.executor": "Run",
     "Python.task-23.executor": "Run",
     "Python.task-24.executor": "Run",
+    "Python.task-25-4938.executor": "Run",
+    "Python.task-26-16390.executor": "Run",
+    "Python.task-26-17786.executor": "Run",
+    "Python.task-26-19726.executor": "Run",
+    "Python.task-26-19727.executor": "Run",
     "Python.task-26.executor": "Run",
     "Python.task-5-10657.executor": "Run",
     "Python.task-5-14-327.executor": "Run",
@@ -92,14 +97,23 @@
     "Python.task-8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/сб/25-01-25-сб/task-26/task-26-19726"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-26\task-26-19726" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-25-16390" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-26-17786" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\Новогодний-пробник\task-17" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\prob-09-01-25\task-26" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-25-4938" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-26" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-25-16390" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-26-19727" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -310,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737731720136</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="gg">
+      <option name="closed" value="true" />
+      <created>1737734127848</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1737734127848</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
