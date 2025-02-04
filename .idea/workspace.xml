@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="-">
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 2 №13077 ответ: zywx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,12 +52,10 @@
     "Python.task-12.executor": "Run",
     "Python.task-14-12246.executor": "Run",
     "Python.task-14-18122.executor": "Run",
-    "Python.task-14-19246.executor": "Run",
     "Python.task-14-19406.executor": "Run",
     "Python.task-14-otrezki.executor": "Run",
     "Python.task-14.executor": "Run",
     "Python.task-15-1409.executor": "Run",
-    "Python.task-15-18140.executor": "Run",
     "Python.task-15.executor": "Run",
     "Python.task-16.executor": "Run",
     "Python.task-17.executor": "Run",
@@ -86,19 +82,13 @@
     "Python.task-24.executor": "Run",
     "Python.task-26.executor": "Run",
     "Python.task-5-14-327.executor": "Run",
-    "Python.task-5-14328.executor": "Run",
     "Python.task-5-18578.executor": "Run",
     "Python.task-5-19237.executor": "Run",
-    "Python.task-5-19874.executor": "Run",
     "Python.task-5.executor": "Run",
     "Python.task-6.executor": "Run",
     "Python.task-7.executor": "Run",
-    "Python.task-8-12786.executor": "Run",
-    "Python.task-8-13252.executor": "Run",
     "Python.task-8-13298.executor": "Run",
     "Python.task-8-17627.executor": "Run",
-    "Python.task-8-18049.executor": "Run",
-    "Python.task-8-18976.executor": "Run",
     "Python.task-8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
