@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_7846 (Отрезки кодом)&#10;Ответ: 10&#10;https://kompege.ru/variant?kim=25080370">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25080370">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,22 +156,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00005" summary="№12246">
-      <option name="closed" value="true" />
-      <created>1736258844447</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1736258844447</updated>
-    </task>
-    <task id="LOCAL-00006" summary="№19406 (прикл)">
-      <option name="closed" value="true" />
-      <created>1736259881772</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1736259881772</updated>
     </task>
     <task id="LOCAL-00007" summary="https://kompege.ru/variant?kim=25075086">
       <option name="closed" value="true" />
@@ -549,7 +533,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738869515827</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Дз. Задание 15_4327 (Отрезки кодом)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738871845211</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1738871845211</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738871864137</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1738871864137</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,8 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="открытый курс №85. ответ: xwyz" />
-    <MESSAGE value="Задание 14. Тип с отрезками" />
     <MESSAGE value="Задание 15. Тип с отрезками" />
     <MESSAGE value="вариант 3 задание 1 ответ 29" />
     <MESSAGE value="вариант 3 задание 2 ответ wzxy" />
@@ -589,6 +587,8 @@
     <MESSAGE value="Дз. Задание 15_16833 (Отрезки руками)&#10;Ответ: 48&#10;https://kompege.ru/variant?kim=25080370" />
     <MESSAGE value="Дз. Задание 15_7846 (Отрезки руками)&#10;Ответ: 10&#10;https://kompege.ru/variant?kim=25080370" />
     <MESSAGE value="Дз. Задание 15_7846 (Отрезки кодом)&#10;Ответ: 10&#10;https://kompege.ru/variant?kim=25080370" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_7846 (Отрезки кодом)&#10;Ответ: 10&#10;https://kompege.ru/variant?kim=25080370" />
+    <MESSAGE value="Дз. Задание 15_4327 (Отрезки кодом)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25080370" />
+    <MESSAGE value="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25080370" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25080370" />
   </component>
 </project>
