@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +56,7 @@
     "Python.task-14-otrezki.executor": "Run",
     "Python.task-14.executor": "Run",
     "Python.task-15-1409.executor": "Run",
+    "Python.task-15-16833.executor": "Run",
     "Python.task-15-18266.executor": "Run",
     "Python.task-15-18595.executor": "Run",
     "Python.task-15-19247.executor": "Run",
@@ -100,12 +103,41 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\домашечки\04-02-25\15" />
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\домашечки\04-02-25\task-15-18595" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\пробники" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\демки-с-компегэ" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни" />
-      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\prob-09-01-25\task-26" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="task-15-16833" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EGE" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/домашечки/04-02-25/15/task-15-16833" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/домашечки/04-02-25/15/task-15-16833/task-15-16833.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task-15-16833" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -483,7 +515,39 @@
       <option name="project" value="LOCAL" />
       <updated>1738867158235</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738867556897</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1738867556898</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Дз. Задание 15_18595 (Отрезки руками)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738867577457</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1738867577457</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Дз. Задание 15_18595 (Отрезки руками)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738867617816</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1738867617816</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738867630717</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1738867630717</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
