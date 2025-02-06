@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="-">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15 (Неравенства)&#10;Ответ: 54&#10;https://kompege.ru/variant?kim=25078940" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +54,7 @@
     "Python.task-14-otrezki.executor": "Run",
     "Python.task-14.executor": "Run",
     "Python.task-15-1409.executor": "Run",
+    "Python.task-15-18266.executor": "Run",
     "Python.task-15-19247.executor": "Run",
     "Python.task-15-746.executor": "Run",
     "Python.task-15-747.executor": "Run",
@@ -419,11 +418,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738862584445</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Дз. Задание 15 (Неравенства)&#10;Ответ: 54&#10;https://kompege.ru/variant?kim=25078940">
+      <option name="closed" value="true" />
+      <created>1738863064794</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1738863064795</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="№18578 (решение через Counter (collections))" />
     <MESSAGE value="№14327 (вместо собстенной функции лучше использовать встроенную (зд. oct))" />
     <MESSAGE value="№17627" />
     <MESSAGE value="открытый курс №1185. ответ: wzxy" />
@@ -448,6 +454,7 @@
     <MESSAGE value="Задание 2 №13077 ответ: zywx" />
     <MESSAGE value="отрезки кодом" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="Дз. Задание 15 (Неравенства)&#10;Ответ: 54&#10;https://kompege.ru/variant?kim=25078940" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15 (Неравенства)&#10;Ответ: 54&#10;https://kompege.ru/variant?kim=25078940" />
   </component>
 </project>
