@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_8677 (Неравенства, дел, отрезок кодом)&#10;Ответ: 114&#10;https://kompege.ru/variant?kim=25080370" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_5437 (Неравенства, дел, 4 переменных кодом)&#10;Ответ: 1&#10;https://kompege.ru/variant?kim=25080370">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +61,7 @@
     "Python.task-15-18595.executor": "Run",
     "Python.task-15-19247.executor": "Run",
     "Python.task-15-4327.executor": "Run",
+    "Python.task-15-5437.executor": "Run",
     "Python.task-15-746.executor": "Run",
     "Python.task-15-747.executor": "Run",
     "Python.task-15-7846.executor": "Run",
@@ -96,6 +99,7 @@
     "Python.task-7.executor": "Run",
     "Python.task-8-13298.executor": "Run",
     "Python.task-8-17627.executor": "Run",
+    "Python.task-8-9363.executor": "Run",
     "Python.task-8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -155,14 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00008" summary="№18122">
-      <option name="closed" value="true" />
-      <created>1736260409915</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1736260409915</updated>
     </task>
     <task id="LOCAL-00009" summary="№18578">
       <option name="closed" value="true" />
@@ -548,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738872322492</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Дз. Задание 15_5437 (Неравенства, дел, 4 переменных кодом)&#10;Ответ: 1&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738872829095</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1738872829096</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -563,7 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="вариант 3 задание 1 ответ 29" />
     <MESSAGE value="вариант 3 задание 2 ответ wzxy" />
     <MESSAGE value="СР задание 2 ответ wxyz" />
     <MESSAGE value="СР задание 2 ответ wzyx" />
@@ -588,6 +591,7 @@
     <MESSAGE value="Дз. Задание 15_4327 (Отрезки кодом)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25080370" />
     <MESSAGE value="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25080370" />
     <MESSAGE value="Дз. Задание 15_8677 (Неравенства, дел, отрезок кодом)&#10;Ответ: 114&#10;https://kompege.ru/variant?kim=25080370" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_8677 (Неравенства, дел, отрезок кодом)&#10;Ответ: 114&#10;https://kompege.ru/variant?kim=25080370" />
+    <MESSAGE value="Дз. Задание 15_5437 (Неравенства, дел, 4 переменных кодом)&#10;Ответ: 1&#10;https://kompege.ru/variant?kim=25080370" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_5437 (Неравенства, дел, 4 переменных кодом)&#10;Ответ: 1&#10;https://kompege.ru/variant?kim=25080370" />
   </component>
 </project>
