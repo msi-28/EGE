@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15 (Неравенства)&#10;Ответ: 54&#10;https://kompege.ru/variant?kim=25078940" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_18266 (Поразрядная конъюнкция)&#10;Ответ: 40&#10;https://kompege.ru/variant?kim=25078940" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -426,11 +426,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738863064795</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Дз. Задание 15_18266 (Поразрядная конъюнкция)&#10;Ответ: 40&#10;https://kompege.ru/variant?kim=25078940">
+      <option name="closed" value="true" />
+      <created>1738863300278</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1738863300278</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="№14327 (вместо собстенной функции лучше использовать встроенную (зд. oct))" />
     <MESSAGE value="№17627" />
     <MESSAGE value="открытый курс №1185. ответ: wzxy" />
     <MESSAGE value="открытый курс №79. ответ: wzyx" />
@@ -455,6 +462,7 @@
     <MESSAGE value="отрезки кодом" />
     <MESSAGE value="-" />
     <MESSAGE value="Дз. Задание 15 (Неравенства)&#10;Ответ: 54&#10;https://kompege.ru/variant?kim=25078940" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15 (Неравенства)&#10;Ответ: 54&#10;https://kompege.ru/variant?kim=25078940" />
+    <MESSAGE value="Дз. Задание 15_18266 (Поразрядная конъюнкция)&#10;Ответ: 40&#10;https://kompege.ru/variant?kim=25078940" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_18266 (Поразрядная конъюнкция)&#10;Ответ: 40&#10;https://kompege.ru/variant?kim=25078940" />
   </component>
 </project>
