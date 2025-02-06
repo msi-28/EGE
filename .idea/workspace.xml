@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_16833 (Отрезки руками)&#10;Ответ: 48&#10;https://kompege.ru/variant?kim=25080370">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,22 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1735050645382</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1735050645382</updated>
-    </task>
-    <task id="LOCAL-00002" summary="задание 5 №19237 (ЕГКР)&#10;24.12.2024">
-      <option name="closed" value="true" />
-      <created>1735051337346</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1735051337346</updated>
     </task>
     <task id="LOCAL-00003" summary="задание 5 №19237 (ЕГКР)&#10;24.12.2024">
       <option name="closed" value="true" />
@@ -547,12 +531,37 @@
       <option name="project" value="LOCAL" />
       <updated>1738867630717</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Дз. Задание 15_16833 (Отрезки кодом)&#10;Ответ: 48&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738868868801</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1738868868805</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Дз. Задание 15_16833 (Отрезки руками)&#10;Ответ: 48&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738868888300</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1738868888300</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="открытый курс №1422. ответ: zxwy" />
-    <MESSAGE value="открытый курс №1846. ответ: cdba" />
     <MESSAGE value="открытый курс №71. ответ: yxwz" />
     <MESSAGE value="открытый курс №46. ответ: xzyw" />
     <MESSAGE value="открытый курс №85. ответ: xwyz" />
@@ -576,6 +585,8 @@
     <MESSAGE value="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25078940" />
     <MESSAGE value="Дз. Задание 15_18595 (Отрезки руками)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370" />
     <MESSAGE value="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370" />
+    <MESSAGE value="Дз. Задание 15_16833 (Отрезки кодом)&#10;Ответ: 48&#10;https://kompege.ru/variant?kim=25080370" />
+    <MESSAGE value="Дз. Задание 15_16833 (Отрезки руками)&#10;Ответ: 48&#10;https://kompege.ru/variant?kim=25080370" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_16833 (Отрезки руками)&#10;Ответ: 48&#10;https://kompege.ru/variant?kim=25080370" />
   </component>
 </project>
