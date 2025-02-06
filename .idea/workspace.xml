@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_6827 (Отрезки руками)&#10;Ответ: 0&#10;https://kompege.ru/variant?kim=25078940">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25078940">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.task-14.executor": "Run",
     "Python.task-15-1409.executor": "Run",
     "Python.task-15-18266.executor": "Run",
+    "Python.task-15-18595.executor": "Run",
     "Python.task-15-19247.executor": "Run",
     "Python.task-15-746.executor": "Run",
     "Python.task-15-747.executor": "Run",
@@ -460,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738865243160</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25078940">
+      <option name="closed" value="true" />
+      <created>1738865768678</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1738865768678</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="открытый курс №1267. ответ: wxzy" />
     <MESSAGE value="открытый курс №1282. ответ: zywx" />
     <MESSAGE value="открытый курс №1357. ответ: cadb" />
     <MESSAGE value="открытый курс №1422. ответ: zxwy" />
@@ -489,6 +497,7 @@
     <MESSAGE value="Дз. Задание 15_12469 (Отрезки руками)&#10;Ответ: 22&#10;https://kompege.ru/variant?kim=25078940" />
     <MESSAGE value="Дз. Задание 15_7846 (Отрезки руками)&#10;Ответ: 10&#10;https://kompege.ru/variant?kim=25078940" />
     <MESSAGE value="Дз. Задание 15_6827 (Отрезки руками)&#10;Ответ: 0&#10;https://kompege.ru/variant?kim=25078940" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_6827 (Отрезки руками)&#10;Ответ: 0&#10;https://kompege.ru/variant?kim=25078940" />
+    <MESSAGE value="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25078940" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25078940" />
   </component>
 </project>
