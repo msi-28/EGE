@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25078940">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -469,12 +467,26 @@
       <option name="project" value="LOCAL" />
       <updated>1738865768678</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Дз. Задание 15_18595 (Отрезки руками)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738866744339</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1738866744340</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738867158235</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1738867158235</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="открытый курс №1282. ответ: zywx" />
-    <MESSAGE value="открытый курс №1357. ответ: cadb" />
     <MESSAGE value="открытый курс №1422. ответ: zxwy" />
     <MESSAGE value="открытый курс №1846. ответ: cdba" />
     <MESSAGE value="открытый курс №71. ответ: yxwz" />
@@ -498,6 +510,8 @@
     <MESSAGE value="Дз. Задание 15_7846 (Отрезки руками)&#10;Ответ: 10&#10;https://kompege.ru/variant?kim=25078940" />
     <MESSAGE value="Дз. Задание 15_6827 (Отрезки руками)&#10;Ответ: 0&#10;https://kompege.ru/variant?kim=25078940" />
     <MESSAGE value="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25078940" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25078940" />
+    <MESSAGE value="Дз. Задание 15_18595 (Отрезки руками)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370" />
+    <MESSAGE value="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370" />
   </component>
 </project>
