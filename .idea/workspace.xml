@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="-">
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="самостоятельная&#10;https://kompege.ru/variant?kim=25080912" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,11 +112,11 @@
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\07-02-25\самостоятельная" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-25-4938" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-26" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-25-16390" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-26-19727" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -347,7 +343,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738936446731</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="самостоятельная&#10;https://kompege.ru/variant?kim=25080912">
+      <option name="closed" value="true" />
+      <created>1738939485761</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1738939485761</updated>
+    </task>
+    <task id="LOCAL-00028" summary="самостоятельная&#10;https://kompege.ru/variant?kim=25080912">
+      <option name="closed" value="true" />
+      <created>1738939529111</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1738939529111</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -374,6 +386,7 @@
     <MESSAGE value="задание 15 номер 4995 ответ: 74" />
     <MESSAGE value="gg" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="самостоятельная&#10;https://kompege.ru/variant?kim=25080912" />
+    <option name="LAST_COMMIT_MESSAGE" value="самостоятельная&#10;https://kompege.ru/variant?kim=25080912" />
   </component>
 </project>
