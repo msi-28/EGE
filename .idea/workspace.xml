@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_1817 (_)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25081654">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 15_1320 (отрезки кодом)&#10;Ответ: 20&#10;https://kompege.ru/variant?kim=25081654">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.task-14-19406.executor": "Run",
     "Python.task-14-otrezki.executor": "Run",
     "Python.task-14.executor": "Run",
+    "Python.task-15-1320.executor": "Run",
     "Python.task-15-1409.executor": "Run",
     "Python.task-15-16833.executor": "Run",
     "Python.task-15-18175.executor": "Run",
@@ -102,6 +103,7 @@
     "Python.task-7.executor": "Run",
     "Python.task-8-13298.executor": "Run",
     "Python.task-8-17627.executor": "Run",
+    "Python.task-8-19753.executor": "Run",
     "Python.task-8-5300.executor": "Run",
     "Python.task-8-5553.executor": "Run",
     "Python.task-8-9363.executor": "Run",
@@ -165,14 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00014" summary="открытый курс №1185. ответ: wzxy">
-      <option name="closed" value="true" />
-      <created>1736673264519</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1736673264520</updated>
     </task>
     <task id="LOCAL-00015" summary="открытый курс №79. ответ: wzyx">
       <option name="closed" value="true" />
@@ -558,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739978973546</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Дз. Задание 15_1320 (отрезки кодом)&#10;Ответ: 20&#10;https://kompege.ru/variant?kim=25081654">
+      <option name="closed" value="true" />
+      <created>1739979691047</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1739979691047</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -573,7 +575,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 2 №13797 ответ: uywzx" />
     <MESSAGE value="Задание 2 №13077 ответ: zywx" />
     <MESSAGE value="отрезки кодом" />
     <MESSAGE value="-" />
@@ -598,6 +599,7 @@
     <MESSAGE value="Дз. Задание 17_17873 (пары)&#10;Ответ: 1214 176024&#10;https://kompege.ru/variant?kim=25081654" />
     <MESSAGE value="Дз. Задание 17_4705 (пары с отрицательными числами)&#10;Ответ: 180 190360573&#10;https://kompege.ru/variant?kim=25081654" />
     <MESSAGE value="Дз. Задание 15_1817 (_)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25081654" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_1817 (_)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25081654" />
+    <MESSAGE value="Дз. Задание 15_1320 (отрезки кодом)&#10;Ответ: 20&#10;https://kompege.ru/variant?kim=25081654" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 15_1320 (отрезки кодом)&#10;Ответ: 20&#10;https://kompege.ru/variant?kim=25081654" />
   </component>
 </project>
