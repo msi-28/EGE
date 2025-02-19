@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 8_5553 (перестановки кодом)&#10;Ответ: 1800&#10;https://kompege.ru/variant?kim=25080370">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Дз. Задание 8_5300 (перестановки предложения кодом)&#10;Ответ: 75600&#10;https://kompege.ru/variant?kim=25080370">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Python.task-15-8677.executor": "Run",
     "Python.task-15.executor": "Run",
     "Python.task-16.executor": "Run",
+    "Python.task-17-19249.executor": "Run",
     "Python.task-17.executor": "Run",
     "Python.task-2-1185.executor": "Run",
     "Python.task-2-1267.executor": "Run",
@@ -111,11 +112,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\домашечки\11-02-25\task-17\task-17-19249" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\домашечки\04-02-25\15" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\домашечки\04-02-25\task-15-18595" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\пробники" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\демки-с-компегэ" />
-      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни" />
     </key>
   </component>
   <component name="RunManager">
@@ -162,14 +163,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00011" summary="№14327 (вместо собстенной функции лучше использовать встроенную (зд. oct))">
-      <option name="closed" value="true" />
-      <created>1736263720560</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1736263720560</updated>
     </task>
     <task id="LOCAL-00012" summary="№14327 (вместо собстенной функции лучше использовать встроенную (зд. oct))">
       <option name="closed" value="true" />
@@ -555,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738874610770</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Дз. Задание 8_5300 (перестановки предложения кодом)&#10;Ответ: 75600&#10;https://kompege.ru/variant?kim=25080370">
+      <option name="closed" value="true" />
+      <created>1738876051023</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1738876051024</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -570,7 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="СР задание 2 ответ wzyx" />
     <MESSAGE value="СР задание 2 ответ cdba" />
     <MESSAGE value="Задание 2 №13797 ответ: ywxz (выдает 2 одинаковых ответа, это норма)" />
     <MESSAGE value="Задание 2 №13797 ответ: uywzx" />
@@ -595,6 +595,7 @@
     <MESSAGE value="Дз. Задание 15_5437 (Неравенства, дел, 4 переменных кодом)&#10;Ответ: 1&#10;https://kompege.ru/variant?kim=25080370" />
     <MESSAGE value="Дз. Задание 8_9363 (перестановки руками(?))&#10;Ответ: 474163200&#10;https://kompege.ru/variant?kim=25080370&#10;&#10;крутое задание, класс" />
     <MESSAGE value="Дз. Задание 8_5553 (перестановки кодом)&#10;Ответ: 1800&#10;https://kompege.ru/variant?kim=25080370" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 8_5553 (перестановки кодом)&#10;Ответ: 1800&#10;https://kompege.ru/variant?kim=25080370" />
+    <MESSAGE value="Дз. Задание 8_5300 (перестановки предложения кодом)&#10;Ответ: 75600&#10;https://kompege.ru/variant?kim=25080370" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз. Задание 8_5300 (перестановки предложения кодом)&#10;Ответ: 75600&#10;https://kompege.ru/variant?kim=25080370" />
   </component>
 </project>
