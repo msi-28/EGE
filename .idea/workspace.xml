@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Сборник крылова 2025. Вариант 5.&#10;Задание 4. Ответ 8">
-      <change afterPath="$PROJECT_DIR$/сборник-крылов-2025/krilov-5-variant/task-4.png" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Сборник крылова 2025. Вариант 5.&#10;Задание 5. Ответ 61">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,22 +168,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00021" summary="открытый курс №71. ответ: yxwz">
-      <option name="closed" value="true" />
-      <created>1736684857035</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1736684857035</updated>
-    </task>
-    <task id="LOCAL-00022" summary="открытый курс №46. ответ: xzyw">
-      <option name="closed" value="true" />
-      <created>1736685239525</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1736685239525</updated>
     </task>
     <task id="LOCAL-00023" summary="открытый курс №85. ответ: xwyz">
       <option name="closed" value="true" />
@@ -561,7 +545,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740067158032</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Сборник крылова 2025. Вариант 5.&#10;Задание 4. Ответ 8">
+      <option name="closed" value="true" />
+      <created>1740067471816</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1740067471816</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Сборник крылова 2025. Вариант 5.&#10;Задание 5. Ответ 61">
+      <option name="closed" value="true" />
+      <created>1740067923193</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1740067923194</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -576,7 +576,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Дз. Задание 15_6827 (Отрезки руками)&#10;Ответ: 0&#10;https://kompege.ru/variant?kim=25078940" />
     <MESSAGE value="Дз. Задание 15_4327 (Отрезки руками)&#10;Ответ: 47&#10;https://kompege.ru/variant?kim=25078940" />
     <MESSAGE value="Дз. Задание 15_18595 (Отрезки руками)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370" />
     <MESSAGE value="Дз. Задание 15_18595 (Отрезки кодом)&#10;Ответ: 52&#10;https://kompege.ru/variant?kim=25080370" />
@@ -601,6 +600,7 @@
     <MESSAGE value="Сборник крылова 2025. Вариант 5.&#10;Задание 2. Ответ xwzy" />
     <MESSAGE value="Сборник крылова 2025. Вариант 5.&#10;Задание 3. Ответ 18920" />
     <MESSAGE value="Сборник крылова 2025. Вариант 5.&#10;Задание 4. Ответ 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сборник крылова 2025. Вариант 5.&#10;Задание 4. Ответ 8" />
+    <MESSAGE value="Сборник крылова 2025. Вариант 5.&#10;Задание 5. Ответ 61" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сборник крылова 2025. Вариант 5.&#10;Задание 5. Ответ 61" />
   </component>
 </project>
