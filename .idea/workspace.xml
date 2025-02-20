@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Сборник крылова 2025. Вариант 5.&#10;Задание 1. Ответ 34" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Сборник крылова 2025. Вариант 5.&#10;Задание 2. Ответ xwzy">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,14 +168,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00019" summary="открытый курс №1422. ответ: zxwy">
-      <option name="closed" value="true" />
-      <created>1736674944933</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1736674944934</updated>
     </task>
     <task id="LOCAL-00020" summary="открытый курс №1846. ответ: cdba">
       <option name="closed" value="true" />
@@ -559,7 +553,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740066146064</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Сборник крылова 2025. Вариант 5.&#10;Задание 2. Ответ xwzy">
+      <option name="closed" value="true" />
+      <created>1740066527269</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1740066527269</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -574,7 +576,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Дз. Задание 15_18266 (Поразрядная конъюнкция)&#10;Ответ: 40&#10;https://kompege.ru/variant?kim=25078940" />
     <MESSAGE value="Дз. Задание 15_12469 (Отрезки руками)&#10;Ответ: 22&#10;https://kompege.ru/variant?kim=25078940" />
     <MESSAGE value="Дз. Задание 15_7846 (Отрезки руками)&#10;Ответ: 10&#10;https://kompege.ru/variant?kim=25078940" />
     <MESSAGE value="Дз. Задание 15_6827 (Отрезки руками)&#10;Ответ: 0&#10;https://kompege.ru/variant?kim=25078940" />
@@ -599,6 +600,7 @@
     <MESSAGE value="Дз. Задание 8_1927 (product)&#10;Ответ: 6860&#10;https://kompege.ru/variant?kim=25081654" />
     <MESSAGE value="Дз. Задание 5_19237 (_)&#10;Ответ: 222&#10;https://kompege.ru/variant?kim=25081654" />
     <MESSAGE value="Сборник крылова 2025. Вариант 5.&#10;Задание 1. Ответ 34" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сборник крылова 2025. Вариант 5.&#10;Задание 1. Ответ 34" />
+    <MESSAGE value="Сборник крылова 2025. Вариант 5.&#10;Задание 2. Ответ xwzy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сборник крылова 2025. Вариант 5.&#10;Задание 2. Ответ xwzy" />
   </component>
 </project>
