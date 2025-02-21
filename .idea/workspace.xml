@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Занятие. 25_11955 (маски)&#10;ответ: &#10;122157574 918478&#10;1021575394 7681018&#10;1421575554 10688538&#10;1821575714 13696058&#10;&#10;https://kompege.ru/variant?kim=25083847">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/будни/21-02-25/task-25-11955.py" beforeDir="false" afterPath="$PROJECT_DIR$/будни/21-02-25/task-25-11955.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -508,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740149997277</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Занятие. 25_11955 (маски)&#10;ответ: &#10;122157574 918478&#10;1021575394 7681018&#10;1421575554 10688538&#10;1821575714 13696058&#10;&#10;https://kompege.ru/variant?kim=25083847">
+      <option name="closed" value="true" />
+      <created>1740150884096</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1740150884096</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
