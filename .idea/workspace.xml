@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 25_17536 (простые делители)&#10;ответ: &#10;800004 400004&#10;800009 114294&#10;800013 266674&#10;800024 400014&#10;800033 61554&#10;&#10;https://kompege.ru/variant?kim=25084536" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 25_17642(простые делители)&#10;ответ: &#10;800001 309&#10;800003 47059&#10;800004 409&#10;800006 269&#10;800007 39&#10;&#10;https://kompege.ru/variant?kim=25084536" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,6 +97,8 @@
     "Python.task-25-11955.executor": "Run",
     "Python.task-25-13440.executor": "Run",
     "Python.task-25-17536.executor": "Run",
+    "Python.task-25-17564.executor": "Run",
+    "Python.task-25-17642.executor": "Run",
     "Python.task-25-18591.executor": "Run",
     "Python.task-25-1867.executor": "Run",
     "Python.task-25-22.executor": "Run",
@@ -169,22 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00009" summary="№18578">
-      <option name="closed" value="true" />
-      <created>1736260782508</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1736260782508</updated>
-    </task>
-    <task id="LOCAL-00010" summary="№18578 (решение через Counter (collections))">
-      <option name="closed" value="true" />
-      <created>1736262895187</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1736262895187</updated>
     </task>
     <task id="LOCAL-00011" summary="№14327 (вместо собстенной функции лучше использовать встроенную (зд. oct))">
       <option name="closed" value="true" />
@@ -562,12 +548,26 @@
       <option name="project" value="LOCAL" />
       <updated>1740495963030</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Задание 25_17564 (простые делители)&#10;ответ: &#10;700004 350004&#10;700009 41194&#10;700023 233344&#10;700024 350014&#10;700044 350024&#10;&#10;https://kompege.ru/variant?kim=25084536">
+      <option name="closed" value="true" />
+      <created>1740496171332</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1740496171332</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Задание 25_17642(простые делители)&#10;ответ: &#10;800001 309&#10;800003 47059&#10;800004 409&#10;800006 269&#10;800007 39&#10;&#10;https://kompege.ru/variant?kim=25084536">
+      <option name="closed" value="true" />
+      <created>1740496380574</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1740496380574</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 15_2861 (отрезки кодом) &#10;ответ: 23&#10;https://kompege.ru/variant?kim=25080927" />
-    <MESSAGE value="Задание 15_3736 (отрезки кодом) &#10;ответ: 29&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 15_4285 (отрезки кодом) &#10;ответ: 30&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 15_4278 (отрезки кодом) &#10;ответ: 16&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 15_4279 (отрезки кодом) &#10;ответ: 950&#10;https://kompege.ru/variant?kim=25080927" />
@@ -591,6 +591,8 @@
     <MESSAGE value="Задание 12_14947&#10;ответ: 23&#10;https://kompege.ru/variant?kim=25084511" />
     <MESSAGE value="Задание 25_1867 (простые делители)&#10;ответ: &#10;500002 178&#10;500004 18&#10;500016 48&#10;500018 58&#10;500020 4348&#10;&#10;https://kompege.ru/variant?kim=25084511" />
     <MESSAGE value="Задание 25_17536 (простые делители)&#10;ответ: &#10;800004 400004&#10;800009 114294&#10;800013 266674&#10;800024 400014&#10;800033 61554&#10;&#10;https://kompege.ru/variant?kim=25084536" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 25_17536 (простые делители)&#10;ответ: &#10;800004 400004&#10;800009 114294&#10;800013 266674&#10;800024 400014&#10;800033 61554&#10;&#10;https://kompege.ru/variant?kim=25084536" />
+    <MESSAGE value="Задание 25_17564 (простые делители)&#10;ответ: &#10;700004 350004&#10;700009 41194&#10;700023 233344&#10;700024 350014&#10;700044 350024&#10;&#10;https://kompege.ru/variant?kim=25084536" />
+    <MESSAGE value="Задание 25_17642(простые делители)&#10;ответ: &#10;800001 309&#10;800003 47059&#10;800004 409&#10;800006 269&#10;800007 39&#10;&#10;https://kompege.ru/variant?kim=25084536" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 25_17642(простые делители)&#10;ответ: &#10;800001 309&#10;800003 47059&#10;800004 409&#10;800006 269&#10;800007 39&#10;&#10;https://kompege.ru/variant?kim=25084536" />
   </component>
 </project>
