@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="-" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="25_896&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;1 195193&#10;2 195493&#10;3 195593&#10;4 195893&#10;5 196193&#10;&#10;https://kompege.ru/variant?kim=25085301">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +103,7 @@
     "Python.task-25-5678.executor": "Run",
     "Python.task-25-67.executor": "Run",
     "Python.task-25-892.executor": "Run",
+    "Python.task-25-896.executor": "Run",
     "Python.task-26-16390.executor": "Run",
     "Python.task-26-17786.executor": "Run",
     "Python.task-26-18967.executor": "Run",
@@ -164,14 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00005" summary="№12246">
-      <option name="closed" value="true" />
-      <created>1736258844447</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1736258844447</updated>
     </task>
     <task id="LOCAL-00006" summary="№19406 (прикл)">
       <option name="closed" value="true" />
@@ -557,11 +552,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740754675009</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="25_896&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;1 195193&#10;2 195493&#10;3 195593&#10;4 195893&#10;5 196193&#10;&#10;https://kompege.ru/variant?kim=25085301">
+      <option name="closed" value="true" />
+      <created>1740754964559</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1740754964559</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="gg" />
     <MESSAGE value="самостоятельная&#10;https://kompege.ru/variant?kim=25080912" />
     <MESSAGE value="Задание 15 (отрезки кодом) &#10;ответ: 25&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 15_1198 (отрезки кодом) &#10;ответ: 23&#10;https://kompege.ru/variant?kim=25080927" />
@@ -586,6 +588,7 @@
     <MESSAGE value="Делители числа&#10;&#10;Ответ:&#10;1200005 2248&#10;1200011 2388&#10;1200037 17978&#10;1200067 109108&#10;1200197 2598&#10;&#10;https://kompege.ru/variant?kim=25085301" />
     <MESSAGE value="25_5477&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;600167 600169&#10;600239 600241&#10;600317 600319&#10;600359 600361&#10;600401 600403&#10;&#10;https://kompege.ru/variant?kim=25085301" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="25_896&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;1 195193&#10;2 195493&#10;3 195593&#10;4 195893&#10;5 196193&#10;&#10;https://kompege.ru/variant?kim=25085301" />
+    <option name="LAST_COMMIT_MESSAGE" value="25_896&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;1 195193&#10;2 195493&#10;3 195593&#10;4 195893&#10;5 196193&#10;&#10;https://kompege.ru/variant?kim=25085301" />
   </component>
 </project>
