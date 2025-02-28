@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="25_896&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;1 195193&#10;2 195493&#10;3 195593&#10;4 195893&#10;5 196193&#10;&#10;https://kompege.ru/variant?kim=25085301">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="25_18620&#10;Делители числа&#10;&#10;Ответ:&#10;112508413&#10;112520369&#10;112523549&#10;112534952&#10;&#10;https://kompege.ru/variant?kim=25085301">
+      <change afterPath="$PROJECT_DIR$/будни/28-02-25/task-25-18620.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +97,7 @@
     "Python.task-25-11955.executor": "Run",
     "Python.task-25-13440.executor": "Run",
     "Python.task-25-18591.executor": "Run",
+    "Python.task-25-18620.executor": "Run",
     "Python.task-25-19755.executor": "Run",
     "Python.task-25-22.executor": "Run",
     "Python.task-25-4938.executor": "Run",
@@ -167,14 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00006" summary="№19406 (прикл)">
-      <option name="closed" value="true" />
-      <created>1736259881772</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1736259881772</updated>
     </task>
     <task id="LOCAL-00007" summary="https://kompege.ru/variant?kim=25075086">
       <option name="closed" value="true" />
@@ -560,11 +554,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740754964559</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="25_18620&#10;Делители числа&#10;&#10;Ответ:&#10;112508413&#10;112520369&#10;112523549&#10;112534952&#10;&#10;https://kompege.ru/variant?kim=25085301">
+      <option name="closed" value="true" />
+      <created>1740755654167</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1740755654167</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="самостоятельная&#10;https://kompege.ru/variant?kim=25080912" />
     <MESSAGE value="Задание 15 (отрезки кодом) &#10;ответ: 25&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 15_1198 (отрезки кодом) &#10;ответ: 23&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 15_2861 (отрезки кодом) &#10;ответ: 23&#10;https://kompege.ru/variant?kim=25080927" />
@@ -589,6 +590,7 @@
     <MESSAGE value="25_5477&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;600167 600169&#10;600239 600241&#10;600317 600319&#10;600359 600361&#10;600401 600403&#10;&#10;https://kompege.ru/variant?kim=25085301" />
     <MESSAGE value="-" />
     <MESSAGE value="25_896&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;1 195193&#10;2 195493&#10;3 195593&#10;4 195893&#10;5 196193&#10;&#10;https://kompege.ru/variant?kim=25085301" />
-    <option name="LAST_COMMIT_MESSAGE" value="25_896&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;1 195193&#10;2 195493&#10;3 195593&#10;4 195893&#10;5 196193&#10;&#10;https://kompege.ru/variant?kim=25085301" />
+    <MESSAGE value="25_18620&#10;Делители числа&#10;&#10;Ответ:&#10;112508413&#10;112520369&#10;112523549&#10;112534952&#10;&#10;https://kompege.ru/variant?kim=25085301" />
+    <option name="LAST_COMMIT_MESSAGE" value="25_18620&#10;Делители числа&#10;&#10;Ответ:&#10;112508413&#10;112520369&#10;112523549&#10;112534952&#10;&#10;https://kompege.ru/variant?kim=25085301" />
   </component>
 </project>
