@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Делители числа&#10;&#10;Ответ:&#10;1200005 2248&#10;1200011 2388&#10;1200037 17978&#10;1200067 109108&#10;1200197 2598&#10;&#10;https://kompege.ru/variant?kim=25085301" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="-" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,6 +97,7 @@
     "Python.task-25-19755.executor": "Run",
     "Python.task-25-22.executor": "Run",
     "Python.task-25-4938.executor": "Run",
+    "Python.task-25-5477.executor": "Run",
     "Python.task-25-5678.executor": "Run",
     "Python.task-25-67.executor": "Run",
     "Python.task-25-892.executor": "Run",
@@ -136,11 +137,11 @@
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\28-02-25\ср" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25\task-26-18967" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25\task-24-var1" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\08-02-25\task-26-8168" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\08-02-25\task-26-8512" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -163,22 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00003" summary="задание 5 №19237 (ЕГКР)&#10;24.12.2024">
-      <option name="closed" value="true" />
-      <created>1735052794173</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1735052794173</updated>
-    </task>
-    <task id="LOCAL-00004" summary="задание 7 №19239 (ЕГКР)&#10;24.12.2024">
-      <option name="closed" value="true" />
-      <created>1735053804089</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1735053804089</updated>
     </task>
     <task id="LOCAL-00005" summary="№12246">
       <option name="closed" value="true" />
@@ -556,11 +541,26 @@
       <option name="project" value="LOCAL" />
       <updated>1740754242742</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="25_5477&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;600167 600169&#10;600239 600241&#10;600317 600319&#10;600359 600361&#10;600401 600403&#10;&#10;https://kompege.ru/variant?kim=25085301">
+      <option name="closed" value="true" />
+      <created>1740754599253</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1740754599253</updated>
+    </task>
+    <task id="LOCAL-00053" summary="-">
+      <option name="closed" value="true" />
+      <created>1740754675009</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1740754675009</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="задание 15 номер 4995 ответ: 74" />
     <MESSAGE value="gg" />
     <MESSAGE value="самостоятельная&#10;https://kompege.ru/variant?kim=25080912" />
     <MESSAGE value="Задание 15 (отрезки кодом) &#10;ответ: 25&#10;https://kompege.ru/variant?kim=25080927" />
@@ -576,7 +576,6 @@
     <MESSAGE value="Задание 25_892 (поиск делителей) &#10;ответ:&#10;51343 154029&#10;77017 154034&#10;4969 154039&#10;51347 154041&#10;&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 26_9711 (парковки с самокатами) &#10;ответ: 400 13&#10;&#10;https://kompege.ru/task" />
     <MESSAGE value="Задание 26_8512 (ячейки) &#10;ответ: 389 133&#10;&#10;https://kompege.ru/task" />
-    <MESSAGE value="-" />
     <MESSAGE value="Занятие. 25_11814 (маски)&#10;ответ: &#10;2110768579 1187827&#10;2135468879 1201727&#10;2137068179 1202627&#10;2161768479 1216527&#10;2186468779 1230427&#10;2188068079 1231327&#10;&#10;https://kompege.ru/variant?kim=25083847" />
     <MESSAGE value="Занятие. 25_11955 (маски)&#10;ответ: &#10;122157574 918478&#10;1021575394 7681018&#10;1421575554 10688538&#10;1821575714 13696058&#10;&#10;https://kompege.ru/variant?kim=25083847" />
     <MESSAGE value="Занятие. 25_18591 (маски)&#10;ответ: &#10;2902302336 1462854&#10;4912342336 2475979&#10;6922382336 3489104&#10;6932302336 3494104&#10;8912332352 4492103&#10;8942342336 4507229&#10;&#10;https://kompege.ru/variant?kim=25083847" />
@@ -585,6 +584,8 @@
     <MESSAGE value="Таблицы" />
     <MESSAGE value="ааааааа пробник (f)" />
     <MESSAGE value="Делители числа&#10;&#10;Ответ:&#10;1200005 2248&#10;1200011 2388&#10;1200037 17978&#10;1200067 109108&#10;1200197 2598&#10;&#10;https://kompege.ru/variant?kim=25085301" />
-    <option name="LAST_COMMIT_MESSAGE" value="Делители числа&#10;&#10;Ответ:&#10;1200005 2248&#10;1200011 2388&#10;1200037 17978&#10;1200067 109108&#10;1200197 2598&#10;&#10;https://kompege.ru/variant?kim=25085301" />
+    <MESSAGE value="25_5477&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;600167 600169&#10;600239 600241&#10;600317 600319&#10;600359 600361&#10;600401 600403&#10;&#10;https://kompege.ru/variant?kim=25085301" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
