@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 25_3090 (простые делители)&#10;ответ:&#10;100000034 50000017&#10;100000042 50000021&#10;100000094 50000047&#10;100000118 50000059&#10;100000126 50000063&#10;&#10;https://kompege.ru/variant?kim=25084536" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 25_2716 (простые делители)&#10;ответ: _">
+      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,6 +122,7 @@
     "Python.task-26-19727.executor": "Run",
     "Python.task-26-8168.executor": "Run",
     "Python.task-26-8512.executor": "Run",
+    "Python.task-26-9171.executor": "Run",
     "Python.task-26-9711.executor": "Run",
     "Python.task-26.executor": "Run",
     "Python.task-4278.executor": "Run",
@@ -147,11 +152,11 @@
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\01-03-25\task-26-9171" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\25-02-25\task-17" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25\task-26-18967" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25\task-24-var1" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\08-02-25\task-26-8168" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -174,14 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00014" summary="пробник 09.01.2025&#10;решу егэ акк: ev***">
-      <option name="closed" value="true" />
-      <created>1736425194351</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1736425194351</updated>
     </task>
     <task id="LOCAL-00015" summary="способ автоматического решения 2 задания (б.доп.)">
       <option name="closed" value="true" />
@@ -567,11 +564,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740498454764</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Задание 25_2716 (простые делители)&#10;ответ: _">
+      <option name="closed" value="true" />
+      <created>1740838452408</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1740838452408</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 15_4280 (отрезки кодом) &#10;ответ: 50&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 25_22 (поиск делителей) &#10;ответ: (см файл)&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 25_67 (поиск делителей) &#10;ответ:&#10;17 289 4913&#10;19 361 6859&#10;&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 25_892 (поиск делителей) &#10;ответ:&#10;51343 154029&#10;77017 154034&#10;4969 154039&#10;51347 154041&#10;&#10;https://kompege.ru/course" />
@@ -596,6 +600,7 @@
     <MESSAGE value="Задание 25_17686 (простые делители)&#10;ответ:&#10;700002 27&#10;700003 37&#10;700005 6087&#10;700007 77&#10;700008 29167&#10;&#10;https://kompege.ru/variant?kim=25084536" />
     <MESSAGE value="Задание 25_17879 (простые делители)&#10;ответ:&#10;800004 400004&#10;800009 114294&#10;800013 266674&#10;800024 400014&#10;800033 61554&#10;&#10;https://kompege.ru/variant?kim=25084536" />
     <MESSAGE value="Задание 25_3090 (простые делители)&#10;ответ:&#10;100000034 50000017&#10;100000042 50000021&#10;100000094 50000047&#10;100000118 50000059&#10;100000126 50000063&#10;&#10;https://kompege.ru/variant?kim=25084536" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 25_3090 (простые делители)&#10;ответ:&#10;100000034 50000017&#10;100000042 50000021&#10;100000094 50000047&#10;100000118 50000059&#10;100000126 50000063&#10;&#10;https://kompege.ru/variant?kim=25084536" />
+    <MESSAGE value="Задание 25_2716 (простые делители)&#10;ответ: _" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 25_2716 (простые делители)&#10;ответ: _" />
   </component>
 </project>
