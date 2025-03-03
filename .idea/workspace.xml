@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="25_8696&#10;Делители числа&#10;&#10;Ответ:&#10;1273566 1637537&#10;1273570 1139869&#10;1273578 1287317&#10;1273582 651769&#10;1273590 2225609&#10;&#10;https://kompege.ru/variant?kim=25085347" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="25_2943&#10;Делители числа&#10;&#10;Ответ:&#10;220004 110004&#10;220023 73344&#10;220024 110014&#10;220033 20014&#10;220043 1044&#10;&#10;https://kompege.ru/variant?kim=25085347">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +82,7 @@
     "Python.task-15-9784.executor": "Run",
     "Python.task-15.executor": "Run",
     "Python.task-16.executor": "Run",
+    "Python.task-17-18617.executor": "Run",
     "Python.task-17-18932.executor": "Run",
     "Python.task-17.executor": "Run",
     "Python.task-19.executor": "Run",
@@ -101,6 +104,8 @@
     "Python.task-25-19755.executor": "Run",
     "Python.task-25-22.executor": "Run",
     "Python.task-25-2716.executor": "Run",
+    "Python.task-25-2943.executor": "Run",
+    "Python.task-25-3025.executor": "Run",
     "Python.task-25-4276.executor": "Run",
     "Python.task-25-4938.executor": "Run",
     "Python.task-25-5477.executor": "Run",
@@ -145,11 +150,11 @@
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\домашечки\28-02-25\task-17-18617" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\28-02-25\ср" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25\task-26-18967" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25\task-24-var1" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\08-02-25\task-26-8168" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -172,22 +177,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00012" summary="№14327 (вместо собстенной функции лучше использовать встроенную (зд. oct))">
-      <option name="closed" value="true" />
-      <created>1736263725205</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1736263725205</updated>
-    </task>
-    <task id="LOCAL-00013" summary="№17627">
-      <option name="closed" value="true" />
-      <created>1736264385684</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1736264385684</updated>
     </task>
     <task id="LOCAL-00014" summary="пробник 09.01.2025&#10;решу егэ акк: ev***">
       <option name="closed" value="true" />
@@ -565,12 +554,26 @@
       <option name="project" value="LOCAL" />
       <updated>1741029538136</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="25_3025&#10;Делители числа&#10;&#10;Ответ:&#10;200000003 48391&#10;200000004 42123&#10;200000005 5&#10;200000008 5101&#10;200000009 113443&#10;&#10;https://kompege.ru/variant?kim=25085347">
+      <option name="closed" value="true" />
+      <created>1741029839047</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1741029839048</updated>
+    </task>
+    <task id="LOCAL-00062" summary="25_2943&#10;Делители числа&#10;&#10;Ответ:&#10;220004 110004&#10;220023 73344&#10;220024 110014&#10;220033 20014&#10;220043 1044&#10;&#10;https://kompege.ru/variant?kim=25085347">
+      <option name="closed" value="true" />
+      <created>1741030069595</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1741030069595</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 15_4278 (отрезки кодом) &#10;ответ: 16&#10;https://kompege.ru/variant?kim=25080927" />
-    <MESSAGE value="Задание 15_4279 (отрезки кодом) &#10;ответ: 950&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 15_4280 (отрезки кодом) &#10;ответ: 50&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 25_22 (поиск делителей) &#10;ответ: (см файл)&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 25_67 (поиск делителей) &#10;ответ:&#10;17 289 4913&#10;19 361 6859&#10;&#10;https://kompege.ru/course" />
@@ -594,6 +597,8 @@
     <MESSAGE value="25_13488&#10;Делители числа&#10;&#10;Ответ:&#10;5 1879 9395&#10;37 127 4699&#10;3 1567 4701&#10;23 409 9407&#10;5 941 4705&#10;3 3137 9411&#10;&#10;https://kompege.ru/variant?kim=25085301" />
     <MESSAGE value="25_2716&#10;Делители числа&#10;&#10;Ответ:&#10;1091880 1182870&#10;1116144 1209156&#10;1140408 1235442&#10;1164672 1261728&#10;1188936 1288014&#10;&#10;https://kompege.ru/variant?kim=25085347" />
     <MESSAGE value="25_8696&#10;Делители числа&#10;&#10;Ответ:&#10;1273566 1637537&#10;1273570 1139869&#10;1273578 1287317&#10;1273582 651769&#10;1273590 2225609&#10;&#10;https://kompege.ru/variant?kim=25085347" />
-    <option name="LAST_COMMIT_MESSAGE" value="25_8696&#10;Делители числа&#10;&#10;Ответ:&#10;1273566 1637537&#10;1273570 1139869&#10;1273578 1287317&#10;1273582 651769&#10;1273590 2225609&#10;&#10;https://kompege.ru/variant?kim=25085347" />
+    <MESSAGE value="25_3025&#10;Делители числа&#10;&#10;Ответ:&#10;200000003 48391&#10;200000004 42123&#10;200000005 5&#10;200000008 5101&#10;200000009 113443&#10;&#10;https://kompege.ru/variant?kim=25085347" />
+    <MESSAGE value="25_2943&#10;Делители числа&#10;&#10;Ответ:&#10;220004 110004&#10;220023 73344&#10;220024 110014&#10;220033 20014&#10;220043 1044&#10;&#10;https://kompege.ru/variant?kim=25085347" />
+    <option name="LAST_COMMIT_MESSAGE" value="25_2943&#10;Делители числа&#10;&#10;Ответ:&#10;220004 110004&#10;220023 73344&#10;220024 110014&#10;220033 20014&#10;220043 1044&#10;&#10;https://kompege.ru/variant?kim=25085347" />
   </component>
 </project>
