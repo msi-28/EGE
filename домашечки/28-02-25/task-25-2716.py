@@ -9,6 +9,19 @@ def f(x):
     return 0
 
 cnt = 0
+ans = []
 for i in range(1_200_000, 1, -1):
-    if f(i)%2022 == 0 and f(i) !=i:
+    if f(i) and f(i)%2022 == 0 and f(i) !=i:
+        ans.append([i, f(i)])
         cnt += 1
+        if cnt == 5:
+            break
+for i in sorted(ans):
+    print(' '.join(map(str, i)))
+
+# ans:
+# 1091880 1182870
+# 1116144 1209156
+# 1140408 1235442
+# 1164672 1261728
+# 1188936 1288014
