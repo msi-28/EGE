@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="25_2943&#10;Делители числа&#10;&#10;Ответ:&#10;220004 110004&#10;220023 73344&#10;220024 110014&#10;220033 20014&#10;220043 1044&#10;&#10;https://kompege.ru/variant?kim=25085347">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="17_18617&#10;Пары чисел&#10;&#10;Ответ: 1467 197700&#10;&#10;https://kompege.ru/variant?kim=25085347" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,11 +148,11 @@
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\домашечки\28-02-25\task-17-14260" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\домашечки\28-02-25\task-17-18617" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\28-02-25\ср" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25\task-26-18967" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25\task-24-var1" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -177,14 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00014" summary="пробник 09.01.2025&#10;решу егэ акк: ev***">
-      <option name="closed" value="true" />
-      <created>1736425194351</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1736425194351</updated>
     </task>
     <task id="LOCAL-00015" summary="способ автоматического решения 2 задания (б.доп.)">
       <option name="closed" value="true" />
@@ -570,11 +560,18 @@
       <option name="project" value="LOCAL" />
       <updated>1741030069595</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="17_18617&#10;Пары чисел&#10;&#10;Ответ: 1467 197700&#10;&#10;https://kompege.ru/variant?kim=25085347">
+      <option name="closed" value="true" />
+      <created>1741030589385</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1741030589385</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 15_4280 (отрезки кодом) &#10;ответ: 50&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 25_22 (поиск делителей) &#10;ответ: (см файл)&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 25_67 (поиск делителей) &#10;ответ:&#10;17 289 4913&#10;19 361 6859&#10;&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 25_892 (поиск делителей) &#10;ответ:&#10;51343 154029&#10;77017 154034&#10;4969 154039&#10;51347 154041&#10;&#10;https://kompege.ru/course" />
@@ -599,6 +596,7 @@
     <MESSAGE value="25_8696&#10;Делители числа&#10;&#10;Ответ:&#10;1273566 1637537&#10;1273570 1139869&#10;1273578 1287317&#10;1273582 651769&#10;1273590 2225609&#10;&#10;https://kompege.ru/variant?kim=25085347" />
     <MESSAGE value="25_3025&#10;Делители числа&#10;&#10;Ответ:&#10;200000003 48391&#10;200000004 42123&#10;200000005 5&#10;200000008 5101&#10;200000009 113443&#10;&#10;https://kompege.ru/variant?kim=25085347" />
     <MESSAGE value="25_2943&#10;Делители числа&#10;&#10;Ответ:&#10;220004 110004&#10;220023 73344&#10;220024 110014&#10;220033 20014&#10;220043 1044&#10;&#10;https://kompege.ru/variant?kim=25085347" />
-    <option name="LAST_COMMIT_MESSAGE" value="25_2943&#10;Делители числа&#10;&#10;Ответ:&#10;220004 110004&#10;220023 73344&#10;220024 110014&#10;220033 20014&#10;220043 1044&#10;&#10;https://kompege.ru/variant?kim=25085347" />
+    <MESSAGE value="17_18617&#10;Пары чисел&#10;&#10;Ответ: 1467 197700&#10;&#10;https://kompege.ru/variant?kim=25085347" />
+    <option name="LAST_COMMIT_MESSAGE" value="17_18617&#10;Пары чисел&#10;&#10;Ответ: 1467 197700&#10;&#10;https://kompege.ru/variant?kim=25085347" />
   </component>
 </project>
