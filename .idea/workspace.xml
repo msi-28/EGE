@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="25_1393&#10;Делители числа&#10;&#10;Ответ:&#10;5 1879 9395&#10;650090 60&#10;650153 282&#10;650155 3945&#10;650208 134&#10;https://kompege.ru/variant?kim=25085301">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="25_13488&#10;Делители числа&#10;&#10;Ответ:&#10;5 1879 9395&#10;37 127 4699&#10;3 1567 4701&#10;23 409 9407&#10;5 941 4705&#10;3 3137 9411&#10;&#10;https://kompege.ru/variant?kim=25085301" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,6 +170,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
+    </task>
+    <task id="LOCAL-00010" summary="№18578 (решение через Counter (collections))">
+      <option name="closed" value="true" />
+      <created>1736262895187</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736262895187</updated>
     </task>
     <task id="LOCAL-00011" summary="№14327 (вместо собстенной функции лучше использовать встроенную (зд. oct))">
       <option name="closed" value="true" />
@@ -557,18 +563,11 @@
       <option name="project" value="LOCAL" />
       <updated>1740757088282</updated>
     </task>
-    <task id="LOCAL-00059" summary="25_1393&#10;Делители числа&#10;&#10;Ответ:&#10;5 1879 9395&#10;650090 60&#10;650153 282&#10;650155 3945&#10;650208 134&#10;https://kompege.ru/variant?kim=25085301">
-      <option name="closed" value="true" />
-      <created>1740757371107</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1740757371107</updated>
-    </task>
-    <option name="localTasksCounter" value="60" />
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание 15_3736 (отрезки кодом) &#10;ответ: 29&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 15_4285 (отрезки кодом) &#10;ответ: 30&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 15_4278 (отрезки кодом) &#10;ответ: 16&#10;https://kompege.ru/variant?kim=25080927" />
     <MESSAGE value="Задание 15_4279 (отрезки кодом) &#10;ответ: 950&#10;https://kompege.ru/variant?kim=25080927" />
@@ -593,7 +592,6 @@
     <MESSAGE value="25_14437&#10;Делители числа&#10;&#10;Ответ:&#10;698196 43313&#10;697664 31313&#10;696525 22313&#10;695940 33313&#10;695606 31313&#10;695533 18313&#10;695526 28313&#10;&#10;https://kompege.ru/variant?kim=25085301" />
     <MESSAGE value="25_4276&#10;Делители числа&#10;&#10;Ответ:&#10;34 10&#10;2962963 14&#10;1793722 30&#10;21052632 62&#10;754717 14&#10;&#10;https://kompege.ru/variant?kim=25085301" />
     <MESSAGE value="25_13488&#10;Делители числа&#10;&#10;Ответ:&#10;5 1879 9395&#10;37 127 4699&#10;3 1567 4701&#10;23 409 9407&#10;5 941 4705&#10;3 3137 9411&#10;&#10;https://kompege.ru/variant?kim=25085301" />
-    <MESSAGE value="25_1393&#10;Делители числа&#10;&#10;Ответ:&#10;5 1879 9395&#10;650090 60&#10;650153 282&#10;650155 3945&#10;650208 134&#10;https://kompege.ru/variant?kim=25085301" />
-    <option name="LAST_COMMIT_MESSAGE" value="25_1393&#10;Делители числа&#10;&#10;Ответ:&#10;5 1879 9395&#10;650090 60&#10;650153 282&#10;650155 3945&#10;650208 134&#10;https://kompege.ru/variant?kim=25085301" />
+    <option name="LAST_COMMIT_MESSAGE" value="25_13488&#10;Делители числа&#10;&#10;Ответ:&#10;5 1879 9395&#10;37 127 4699&#10;3 1567 4701&#10;23 409 9407&#10;5 941 4705&#10;3 3137 9411&#10;&#10;https://kompege.ru/variant?kim=25085301" />
   </component>
 </project>
