@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="-" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="16_1860&#10;рекурсия (не глубокая)&#10;&#10;Ответ: 62820&#10;&#10;https://kompege.ru/variant?kim=25086035" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +46,7 @@
     "Python.correct-task-17.executor": "Run",
     "Python.f.executor": "Run",
     "Python.pydevd_console.executor": "Run",
+    "Python.task- 16-1860.executor": "Run",
     "Python.task-1-17664.executor": "Run",
     "Python.task-1-18916.executor": "Run",
     "Python.task-1-4581.executor": "Run",
@@ -178,14 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00018" summary="правильное решение 17 задания">
-      <option name="closed" value="true" />
-      <created>1736521551357</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1736521551357</updated>
     </task>
     <task id="LOCAL-00019" summary="правильное решение 23 задание + то, которое было (исключене числа)">
       <option name="closed" value="true" />
@@ -571,11 +564,18 @@
       <option name="project" value="LOCAL" />
       <updated>1741099413291</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="16_1860&#10;рекурсия (не глубокая)&#10;&#10;Ответ: 62820&#10;&#10;https://kompege.ru/variant?kim=25086035">
+      <option name="closed" value="true" />
+      <created>1741099868044</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1741099868045</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 25_67 (поиск делителей) &#10;ответ:&#10;17 289 4913&#10;19 361 6859&#10;&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 25_892 (поиск делителей) &#10;ответ:&#10;51343 154029&#10;77017 154034&#10;4969 154039&#10;51347 154041&#10;&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 26_9711 (парковки с самокатами) &#10;ответ: 400 13&#10;&#10;https://kompege.ru/task" />
     <MESSAGE value="Задание 26_8512 (ячейки) &#10;ответ: 389 133&#10;&#10;https://kompege.ru/task" />
@@ -600,6 +600,7 @@
     <MESSAGE value="17_18617&#10;Пары чисел&#10;&#10;Ответ: 1467 197700&#10;&#10;https://kompege.ru/variant?kim=25085347" />
     <MESSAGE value="17_14260&#10;Тройки чисел&#10;&#10;Ответ: 8 1958&#10;&#10;https://kompege.ru/variant?kim=25085347" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="16_1860&#10;рекурсия (не глубокая)&#10;&#10;Ответ: 62820&#10;&#10;https://kompege.ru/variant?kim=25086035" />
+    <option name="LAST_COMMIT_MESSAGE" value="16_1860&#10;рекурсия (не глубокая)&#10;&#10;Ответ: 62820&#10;&#10;https://kompege.ru/variant?kim=25086035" />
   </component>
 </project>
