@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="17_14260&#10;Тройки чисел&#10;&#10;Ответ: 8 1958&#10;&#10;https://kompege.ru/variant?kim=25085347">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="-" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,22 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00016" summary="ans -&gt; 20736">
-      <option name="closed" value="true" />
-      <created>1736518963757</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1736518963757</updated>
-    </task>
-    <task id="LOCAL-00017" summary="автоматическое решение 19-21 заданий(оч интересно ниче не понятно)">
-      <option name="closed" value="true" />
-      <created>1736521504004</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1736521504004</updated>
     </task>
     <task id="LOCAL-00018" summary="правильное решение 17 задания">
       <option name="closed" value="true" />
@@ -573,7 +555,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741031081111</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="-">
+      <option name="closed" value="true" />
+      <created>1741099371713</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1741099371713</updated>
+    </task>
+    <task id="LOCAL-00066" summary="-">
+      <option name="closed" value="true" />
+      <created>1741099413291</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1741099413291</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -590,7 +588,6 @@
     <MESSAGE value="ааааааа пробник (f)" />
     <MESSAGE value="Делители числа&#10;&#10;Ответ:&#10;1200005 2248&#10;1200011 2388&#10;1200037 17978&#10;1200067 109108&#10;1200197 2598&#10;&#10;https://kompege.ru/variant?kim=25085301" />
     <MESSAGE value="25_5477&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;600167 600169&#10;600239 600241&#10;600317 600319&#10;600359 600361&#10;600401 600403&#10;&#10;https://kompege.ru/variant?kim=25085301" />
-    <MESSAGE value="-" />
     <MESSAGE value="25_896&#10;Делители числа&#10;&#10;Ответ:&#10;600071 600073&#10;1 195193&#10;2 195493&#10;3 195593&#10;4 195893&#10;5 196193&#10;&#10;https://kompege.ru/variant?kim=25085301" />
     <MESSAGE value="25_18620&#10;Делители числа&#10;&#10;Ответ:&#10;112508413&#10;112520369&#10;112523549&#10;112534952&#10;&#10;https://kompege.ru/variant?kim=25085301" />
     <MESSAGE value="25_14437&#10;Делители числа&#10;&#10;Ответ:&#10;698196 43313&#10;697664 31313&#10;696525 22313&#10;695940 33313&#10;695606 31313&#10;695533 18313&#10;695526 28313&#10;&#10;https://kompege.ru/variant?kim=25085301" />
@@ -602,6 +599,7 @@
     <MESSAGE value="25_2943&#10;Делители числа&#10;&#10;Ответ:&#10;220004 110004&#10;220023 73344&#10;220024 110014&#10;220033 20014&#10;220043 1044&#10;&#10;https://kompege.ru/variant?kim=25085347" />
     <MESSAGE value="17_18617&#10;Пары чисел&#10;&#10;Ответ: 1467 197700&#10;&#10;https://kompege.ru/variant?kim=25085347" />
     <MESSAGE value="17_14260&#10;Тройки чисел&#10;&#10;Ответ: 8 1958&#10;&#10;https://kompege.ru/variant?kim=25085347" />
-    <option name="LAST_COMMIT_MESSAGE" value="17_14260&#10;Тройки чисел&#10;&#10;Ответ: 8 1958&#10;&#10;https://kompege.ru/variant?kim=25085347" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
