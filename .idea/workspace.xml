@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 25_2716 (простые делители)&#10;ответ: _">
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="-" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,14 +176,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00015" summary="способ автоматического решения 2 задания (б.доп.)">
-      <option name="closed" value="true" />
-      <created>1736518794691</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1736518794691</updated>
     </task>
     <task id="LOCAL-00016" summary="ans -&gt; 20736">
       <option name="closed" value="true" />
@@ -573,7 +561,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740838452408</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="-">
+      <option name="closed" value="true" />
+      <created>1741703392796</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1741703392796</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -582,7 +578,6 @@
     <MESSAGE value="Задание 25_892 (поиск делителей) &#10;ответ:&#10;51343 154029&#10;77017 154034&#10;4969 154039&#10;51347 154041&#10;&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 26_9711 (парковки с самокатами) &#10;ответ: 400 13&#10;&#10;https://kompege.ru/task" />
     <MESSAGE value="Задание 26_8512 (ячейки) &#10;ответ: 389 133&#10;&#10;https://kompege.ru/task" />
-    <MESSAGE value="-" />
     <MESSAGE value="Занятие. 25_11814 (маски)&#10;ответ: &#10;2110768579 1187827&#10;2135468879 1201727&#10;2137068179 1202627&#10;2161768479 1216527&#10;2186468779 1230427&#10;2188068079 1231327&#10;&#10;https://kompege.ru/variant?kim=25083847" />
     <MESSAGE value="Занятие. 25_11955 (маски)&#10;ответ: &#10;122157574 918478&#10;1021575394 7681018&#10;1421575554 10688538&#10;1821575714 13696058&#10;&#10;https://kompege.ru/variant?kim=25083847" />
     <MESSAGE value="Занятие. 25_18591 (маски)&#10;ответ: &#10;2902302336 1462854&#10;4912342336 2475979&#10;6922382336 3489104&#10;6932302336 3494104&#10;8912332352 4492103&#10;8942342336 4507229&#10;&#10;https://kompege.ru/variant?kim=25083847" />
@@ -602,6 +597,7 @@
     <MESSAGE value="Задание 25_17879 (простые делители)&#10;ответ:&#10;800004 400004&#10;800009 114294&#10;800013 266674&#10;800024 400014&#10;800033 61554&#10;&#10;https://kompege.ru/variant?kim=25084536" />
     <MESSAGE value="Задание 25_3090 (простые делители)&#10;ответ:&#10;100000034 50000017&#10;100000042 50000021&#10;100000094 50000047&#10;100000118 50000059&#10;100000126 50000063&#10;&#10;https://kompege.ru/variant?kim=25084536" />
     <MESSAGE value="Задание 25_2716 (простые делители)&#10;ответ: _" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 25_2716 (простые делители)&#10;ответ: _" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
