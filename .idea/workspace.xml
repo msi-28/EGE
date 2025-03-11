@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 25_2716 (простые делители)&#10;ответ: _">
-      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="жесть">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,14 +177,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00015" summary="способ автоматического решения 2 задания (б.доп.)">
-      <option name="closed" value="true" />
-      <created>1736518794691</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1736518794691</updated>
     </task>
     <task id="LOCAL-00016" summary="ans -&gt; 20736">
       <option name="closed" value="true" />
@@ -572,11 +562,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740838452408</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="жесть">
+      <option name="closed" value="true" />
+      <created>1740844479370</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1740844479370</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 25_22 (поиск делителей) &#10;ответ: (см файл)&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 25_67 (поиск делителей) &#10;ответ:&#10;17 289 4913&#10;19 361 6859&#10;&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 25_892 (поиск делителей) &#10;ответ:&#10;51343 154029&#10;77017 154034&#10;4969 154039&#10;51347 154041&#10;&#10;https://kompege.ru/course" />
     <MESSAGE value="Задание 26_9711 (парковки с самокатами) &#10;ответ: 400 13&#10;&#10;https://kompege.ru/task" />
@@ -601,6 +598,7 @@
     <MESSAGE value="Задание 25_17879 (простые делители)&#10;ответ:&#10;800004 400004&#10;800009 114294&#10;800013 266674&#10;800024 400014&#10;800033 61554&#10;&#10;https://kompege.ru/variant?kim=25084536" />
     <MESSAGE value="Задание 25_3090 (простые делители)&#10;ответ:&#10;100000034 50000017&#10;100000042 50000021&#10;100000094 50000047&#10;100000118 50000059&#10;100000126 50000063&#10;&#10;https://kompege.ru/variant?kim=25084536" />
     <MESSAGE value="Задание 25_2716 (простые делители)&#10;ответ: _" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 25_2716 (простые делители)&#10;ответ: _" />
+    <MESSAGE value="жесть" />
+    <option name="LAST_COMMIT_MESSAGE" value="жесть" />
   </component>
 </project>
