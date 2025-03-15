@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="23_5937&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 74&#10;https://kompege.ru/variant?kim=25088219">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="23_5762&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 130771&#10;https://kompege.ru/variant?kim=25088219">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,6 +128,7 @@
     "Python.task-25-8379.executor": "Run",
     "Python.task-25-892.executor": "Run",
     "Python.task-25.executor": "Run",
+    "Python.task-26-.executor": "Run",
     "Python.task-26-16390.executor": "Run",
     "Python.task-26-17786.executor": "Run",
     "Python.task-26-18967.executor": "Run",
@@ -153,24 +154,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/14-03-25/ср",
+    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/сборник-крылов-2025/krilov-1-variant/task-26",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сборник-крылов-2025\krilov-1-variant\task-26" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\14-03-25\ср" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-26\task-26-19726" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-25-16390" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сб\25-01-25-сб\task-26-17786" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\сборник-крылов-2025\krilov-1-variant\task-26" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\01-03-25\task-26-9171" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\25-02-25\task-17" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25\task-26-18967" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-02-25\task-24-var1" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -193,14 +194,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Задание 15_1198 (отрезки кодом) &#10;ответ: 23&#10;https://kompege.ru/variant?kim=25080927">
-      <option name="closed" value="true" />
-      <created>1738940489644</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1738940489644</updated>
     </task>
     <task id="LOCAL-00031" summary="Задание 15_2861 (отрезки кодом) &#10;ответ: 23&#10;https://kompege.ru/variant?kim=25080927">
       <option name="closed" value="true" />
@@ -586,11 +579,18 @@
       <option name="project" value="LOCAL" />
       <updated>1741965975300</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="23_5762&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 130771&#10;https://kompege.ru/variant?kim=25088219">
+      <option name="closed" value="true" />
+      <created>1741967085954</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1741967085954</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 25_8379&#10;ответ: &#10;12340001&#10;123400010&#10;123437000&#10;1234000100&#10;1234370000&#10;&#10;https://kompege.ru/variant?kim=25084511" />
     <MESSAGE value="Задание 12_14947&#10;ответ: 23&#10;https://kompege.ru/variant?kim=25084511" />
     <MESSAGE value="Задание 25_1867 (простые делители)&#10;ответ: &#10;500002 178&#10;500004 18&#10;500016 48&#10;500018 58&#10;500020 4348&#10;&#10;https://kompege.ru/variant?kim=25084511" />
     <MESSAGE value="Задание 25_17536 (простые делители)&#10;ответ: &#10;800004 400004&#10;800009 114294&#10;800013 266674&#10;800024 400014&#10;800033 61554&#10;&#10;https://kompege.ru/variant?kim=25084536" />
@@ -615,6 +615,7 @@
     <MESSAGE value="23_5938&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 319&#10;https://kompege.ru/variant?kim=25088219" />
     <MESSAGE value="23_5937&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 4197234&#10;https://kompege.ru/variant?kim=25088219" />
     <MESSAGE value="23_5937&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 74&#10;https://kompege.ru/variant?kim=25088219" />
-    <option name="LAST_COMMIT_MESSAGE" value="23_5937&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 74&#10;https://kompege.ru/variant?kim=25088219" />
+    <MESSAGE value="23_5762&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 130771&#10;https://kompege.ru/variant?kim=25088219" />
+    <option name="LAST_COMMIT_MESSAGE" value="23_5762&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 130771&#10;https://kompege.ru/variant?kim=25088219" />
   </component>
 </project>
