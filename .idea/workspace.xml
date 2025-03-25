@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="15_8596&#10;&#10;Ответ: 301&#10;https://kompege.ru/variant?kim=25087422" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="15_8596&#10;&#10;Ответ: 301&#10;https://kompege.ru/variant?kim=25087422">
+      <change beforePath="$PROJECT_DIR$/.idea/EGE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EGE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +58,7 @@
     "Python.task-11.executor": "Run",
     "Python.task-12-18579.executor": "Run",
     "Python.task-12.executor": "Run",
+    "Python.task-13.executor": "Run",
     "Python.task-14-1.executor": "Run",
     "Python.task-14-12246.executor": "Run",
     "Python.task-14-18122.executor": "Run",
@@ -98,11 +103,12 @@
     "Python.task-17-18932.executor": "Run",
     "Python.task-17.executor": "Run",
     "Python.task-19.executor": "Run",
+    "Python.task-1921.executor": "Run",
     "Python.task-2-14651.executor": "Run",
     "Python.task-2-18917.executor": "Run",
     "Python.task-2-4459.executor": "Run",
     "Python.task-2-auto.executor": "Run",
-    "Python.task-2.executor": "Debug",
+    "Python.task-2.executor": "Run",
     "Python.task-23-10104.executor": "Run",
     "Python.task-23-4709.executor": "Run",
     "Python.task-23.executor": "Run",
