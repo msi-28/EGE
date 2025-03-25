@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="пробник 24_03_25" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="пробник 24_03_25">
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/1804.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/2204.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/304.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/904.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-17/1706.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-17/task-17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-24/2418.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-24/task-24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-26/2600.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-26/task-26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пробники/prod-24-03-25/task-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,6 +221,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Задание 15_4280 (отрезки кодом) &#10;ответ: 50&#10;https://kompege.ru/variant?kim=25080927">
+      <option name="closed" value="true" />
+      <created>1738942092860</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1738942092860</updated>
     </task>
     <task id="LOCAL-00037" summary="Задание 25_22 (поиск делителей) &#10;ответ: (см файл)&#10;https://kompege.ru/course">
       <option name="closed" value="true" />
@@ -581,15 +614,7 @@
       <option name="project" value="LOCAL" />
       <updated>1742657906040</updated>
     </task>
-    <task id="LOCAL-00085" summary="пробник 24_03_25">
-      <option name="closed" value="true" />
-      <created>1742820839868</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1742820839868</updated>
-    </task>
-    <option name="localTasksCounter" value="86" />
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
