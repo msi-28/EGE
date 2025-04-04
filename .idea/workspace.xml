@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="9 задания кодом&#10;&#10;ответ: 104&#10;https://kompege.ru/variant?kim=25063517" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="9 задания кодом (4614)&#10;&#10;ответ: 133&#10;https://kompege.ru/variant?kim=25063517">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,6 +161,8 @@
     "Python.task-8-2.executor": "Run",
     "Python.task-8.executor": "Run",
     "Python.task-9-4589.executor": "Run",
+    "Python.task-9-4614.executor": "Run",
+    "Python.task-9-9740.executor": "Run",
     "Python.tsak-6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -203,14 +207,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Занятие. 25_11955 (маски)&#10;ответ: &#10;122157574 918478&#10;1021575394 7681018&#10;1421575554 10688538&#10;1821575714 13696058&#10;&#10;https://kompege.ru/variant?kim=25083847">
-      <option name="closed" value="true" />
-      <created>1740149997277</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1740149997277</updated>
     </task>
     <task id="LOCAL-00045" summary="Занятие. 25_11955 (маски)&#10;ответ: &#10;122157574 918478&#10;1021575394 7681018&#10;1421575554 10688538&#10;1821575714 13696058&#10;&#10;https://kompege.ru/variant?kim=25083847">
       <option name="closed" value="true" />
@@ -596,11 +592,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743778561578</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="9 задания кодом (4614)&#10;&#10;ответ: 133&#10;https://kompege.ru/variant?kim=25063517">
+      <option name="closed" value="true" />
+      <created>1743779076462</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1743779076462</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 23_9844&#10;(рекурсия)&#10;&#10;ответ: 133&#10;&#10;https://kompege.ru/variant?kim=25087370" />
     <MESSAGE value="Задание 23_17534&#10;(рекурсия)&#10;&#10;ответ: 288&#10;&#10;https://kompege.ru/variant?kim=25087370" />
     <MESSAGE value="Задание 23_17562&#10;(рекурсия)&#10;&#10;ответ: 14&#10;&#10;https://kompege.ru/variant?kim=25087370" />
     <MESSAGE value="https://kompege.ru/variant?kim=25088217" />
@@ -625,6 +628,7 @@
     <MESSAGE value="задания 19-21 (845)&#10;&#10;19) [34]&#10;20) [33]&#10;21) [11, 32]&#10;https://kompege.ru/variant?kim=25091922" />
     <MESSAGE value="ср&#10;https://kompege.ru/variant?kim=25092369" />
     <MESSAGE value="9 задания кодом&#10;&#10;ответ: 104&#10;https://kompege.ru/variant?kim=25063517" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 задания кодом&#10;&#10;ответ: 104&#10;https://kompege.ru/variant?kim=25063517" />
+    <MESSAGE value="9 задания кодом (4614)&#10;&#10;ответ: 133&#10;https://kompege.ru/variant?kim=25063517" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 задания кодом (4614)&#10;&#10;ответ: 133&#10;https://kompege.ru/variant?kim=25063517" />
   </component>
 </project>
