@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="13 (10781)&#10;&#10;ответ: 8192&#10;https://kompege.ru/variant?kim=25093899">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="регулярное...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,6 +129,7 @@
     "Python.task-23-9844.executor": "Run",
     "Python.task-23.executor": "Run",
     "Python.task-24-1866.executor": "Run",
+    "Python.task-24-4602.executor": "Run",
     "Python.task-24.executor": "Run",
     "Python.task-25-11814.executor": "Run",
     "Python.task-25-11955.executor": "Run",
@@ -184,17 +185,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/суббота/12-04-25",
+    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/суббота/12-04-25/task-24-4602",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\12-04-25\task-24-4602" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\12-04-25" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25\task-26" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25\task-24" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25\task-17" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-03-25\task-26-17643" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\12-04-25\task-24-1866" />
@@ -224,22 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Задание 25_17879 (простые делители)&#10;ответ:&#10;800004 400004&#10;800009 114294&#10;800013 266674&#10;800024 400014&#10;800033 61554&#10;&#10;https://kompege.ru/variant?kim=25084536">
-      <option name="closed" value="true" />
-      <created>1740496706573</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1740496706573</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Задание 25_3090 (простые делители)&#10;ответ:&#10;100000034 50000017&#10;100000042 50000021&#10;100000094 50000047&#10;100000118 50000059&#10;100000126 50000063&#10;&#10;https://kompege.ru/variant?kim=25084536">
-      <option name="closed" value="true" />
-      <created>1740498454764</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1740498454764</updated>
     </task>
     <task id="LOCAL-00063" summary="Задание 25_2716 (простые делители)&#10;ответ: _">
       <option name="closed" value="true" />
@@ -617,12 +602,26 @@
       <option name="project" value="LOCAL" />
       <updated>1744386615705</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="24 (1866) регулярки&#10;&#10;ответ: 2252">
+      <option name="closed" value="true" />
+      <created>1744471954520</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1744471954520</updated>
+    </task>
+    <task id="LOCAL-00111" summary="регулярное...">
+      <option name="closed" value="true" />
+      <created>1744471972734</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1744471972734</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="-" />
-    <MESSAGE value="Задание 19-21 (7850)&#10;&#10;ответ:&#10;# ans:&#10;# 19) 36&#10;# 20) 18 33&#10;# 21) 32 34&#10;&#10;https://kompege.ru/variant?kim=25091957" />
     <MESSAGE value="Задание 19-21 (8684)&#10;&#10;ответ:&#10;# ans:&#10;# 19) 4&#10;# 20) 3&#10;# 21) 51&#10;&#10;https://kompege.ru/variant?kim=25091957" />
     <MESSAGE value="Задание 16 (18123)&#10;&#10;ответ:&#10;1&#10;&#10;https://kompege.ru/variant?kim=25091957" />
     <MESSAGE value="Задание 23 (13099)&#10;&#10;ответ:&#10;6&#10;&#10;https://kompege.ru/variant?kim=25091957" />
@@ -646,6 +645,8 @@
     <MESSAGE value="13 (10170)&#10;&#10;ответ: 240&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10782)&#10;&#10;ответ: 21&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10781)&#10;&#10;ответ: 8192&#10;https://kompege.ru/variant?kim=25093899" />
-    <option name="LAST_COMMIT_MESSAGE" value="13 (10781)&#10;&#10;ответ: 8192&#10;https://kompege.ru/variant?kim=25093899" />
+    <MESSAGE value="24 (1866) регулярки&#10;&#10;ответ: 2252" />
+    <MESSAGE value="регулярное..." />
+    <option name="LAST_COMMIT_MESSAGE" value="регулярное..." />
   </component>
 </project>
