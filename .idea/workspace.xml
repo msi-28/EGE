@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="1 задание пробник дз&#10;ответ: 11&#10;https://kompege.ru/variant?kim=25093291">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="3, 10 задание пробник дз&#10;ответ: -&#10;https://kompege.ru/variant?kim=25093291">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/домашечки/04-04-25/task-8-1363.py" beforeDir="false" afterPath="$PROJECT_DIR$/домашечки/04-04-25/task-8-1363.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/домашечки/04-04-25/task-12-14373.py" beforeDir="false" afterPath="$PROJECT_DIR$/домашечки/04-04-25/task-12-14373.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,22 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Задание 25_17564 (простые делители)&#10;ответ: &#10;700004 350004&#10;700009 41194&#10;700023 233344&#10;700024 350014&#10;700044 350024&#10;&#10;https://kompege.ru/variant?kim=25084536">
-      <option name="closed" value="true" />
-      <created>1740496171332</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1740496171332</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Задание 25_17642(простые делители)&#10;ответ: &#10;800001 309&#10;800003 47059&#10;800004 409&#10;800006 269&#10;800007 39&#10;&#10;https://kompege.ru/variant?kim=25084536">
-      <option name="closed" value="true" />
-      <created>1740496380574</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1740496380574</updated>
     </task>
     <task id="LOCAL-00060" summary="Задание 25_17686 (простые делители)&#10;ответ:&#10;700002 27&#10;700003 37&#10;700005 6087&#10;700007 77&#10;700008 29167&#10;&#10;https://kompege.ru/variant?kim=25084536">
       <option name="closed" value="true" />
@@ -618,12 +602,26 @@
       <option name="project" value="LOCAL" />
       <updated>1744973931240</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="8 задание пробник дз&#10;ответ: 1562&#10;https://kompege.ru/variant?kim=25093291">
+      <option name="closed" value="true" />
+      <created>1744976875287</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1744976875287</updated>
+    </task>
+    <task id="LOCAL-00108" summary="3, 10 задание пробник дз&#10;ответ: -&#10;https://kompege.ru/variant?kim=25093291">
+      <option name="closed" value="true" />
+      <created>1744977514346</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1744977514346</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="26_17643&#10;&#10;Ответ: 43656 36" />
-    <MESSAGE value="пробник 24_03_25" />
     <MESSAGE value="-" />
     <MESSAGE value="Задание 19-21 (7850)&#10;&#10;ответ:&#10;# ans:&#10;# 19) 36&#10;# 20) 18 33&#10;# 21) 32 34&#10;&#10;https://kompege.ru/variant?kim=25091957" />
     <MESSAGE value="Задание 19-21 (8684)&#10;&#10;ответ:&#10;# ans:&#10;# 19) 4&#10;# 20) 3&#10;# 21) 51&#10;&#10;https://kompege.ru/variant?kim=25091957" />
@@ -647,6 +645,8 @@
     <MESSAGE value="Задание 16 (5168)&#10;Ответ: хз&#10;&#10;https://kompege.ru/variant?kim=25093291" />
     <MESSAGE value="13 задания" />
     <MESSAGE value="1 задание пробник дз&#10;ответ: 11&#10;https://kompege.ru/variant?kim=25093291" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 задание пробник дз&#10;ответ: 11&#10;https://kompege.ru/variant?kim=25093291" />
+    <MESSAGE value="8 задание пробник дз&#10;ответ: 1562&#10;https://kompege.ru/variant?kim=25093291" />
+    <MESSAGE value="3, 10 задание пробник дз&#10;ответ: -&#10;https://kompege.ru/variant?kim=25093291" />
+    <option name="LAST_COMMIT_MESSAGE" value="3, 10 задание пробник дз&#10;ответ: -&#10;https://kompege.ru/variant?kim=25093291" />
   </component>
 </project>
