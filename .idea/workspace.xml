@@ -45,6 +45,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.13-14355.executor": "Run",
+    "Python.13-14648.executor": "Run",
+    "Python.13-18487.executor": "Run",
+    "Python.13-20807.executor": "Run",
     "Python.correct-task-17.executor": "Run",
     "Python.f.executor": "Run",
     "Python.pydevd_console.executor": "Run",
