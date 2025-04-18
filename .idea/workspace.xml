@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="13 задание (14650)&#10;тип: 2 узла в разных подсети&#10;ответ: 29&#10;https://kompege.ru/variant?kim=25095201">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="13 задание (18615)&#10;тип: тяжело..&#10;ответ: 17&#10;https://kompege.ru/variant?kim=25095201" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,14 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00069" summary="Задание 23_9844&#10;(рекурсия)&#10;&#10;ответ: 133&#10;&#10;https://kompege.ru/variant?kim=25087370">
-      <option name="closed" value="true" />
-      <created>1741704497329</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1741704497329</updated>
     </task>
     <task id="LOCAL-00070" summary="Задание 23_17534&#10;(рекурсия)&#10;&#10;ответ: 288&#10;&#10;https://kompege.ru/variant?kim=25087370">
       <option name="closed" value="true" />
@@ -627,11 +617,18 @@
       <option name="project" value="LOCAL" />
       <updated>1744987615160</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="13 задание (18615)&#10;тип: тяжело..&#10;ответ: 17&#10;https://kompege.ru/variant?kim=25095201">
+      <option name="closed" value="true" />
+      <created>1744988493706</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1744988493707</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="9 задания кодом (4614)&#10;&#10;ответ: 133&#10;https://kompege.ru/variant?kim=25063517" />
     <MESSAGE value="9 задания кодом (9740)&#10;&#10;ответ: 36&#10;https://kompege.ru/variant?kim=25063517" />
     <MESSAGE value="досрок" />
     <MESSAGE value="Задание 1 (54523)&#10;Ответ: 5&#10;&#10;https://kompege.ru/variant?kim=25093291" />
@@ -656,6 +653,7 @@
     <MESSAGE value="самостоятельная работа&#10;https://kompege.ru/variant?kim=25095191" />
     <MESSAGE value="13 задание (18955)&#10;тип: 2 узла в одной подсети&#10;https://kompege.ru/variant?kim=25095201" />
     <MESSAGE value="13 задание (14650)&#10;тип: 2 узла в разных подсети&#10;ответ: 29&#10;https://kompege.ru/variant?kim=25095201" />
-    <option name="LAST_COMMIT_MESSAGE" value="13 задание (14650)&#10;тип: 2 узла в разных подсети&#10;ответ: 29&#10;https://kompege.ru/variant?kim=25095201" />
+    <MESSAGE value="13 задание (18615)&#10;тип: тяжело..&#10;ответ: 17&#10;https://kompege.ru/variant?kim=25095201" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 задание (18615)&#10;тип: тяжело..&#10;ответ: 17&#10;https://kompege.ru/variant?kim=25095201" />
   </component>
 </project>
