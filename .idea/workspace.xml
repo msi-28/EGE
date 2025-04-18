@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="13 задание пробник дз&#10;ответ: 1663&#10;https://kompege.ru/variant?kim=25093291">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="16 задание пробник дз&#10;ответ: 9341&#10;https://kompege.ru/variant?kim=25093291">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/домашечки/04-04-25/task-16-5168.py" beforeDir="false" afterPath="$PROJECT_DIR$/домашечки/04-04-25/task-16-5168.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +102,7 @@
     "Python.task-17686.executor": "Run",
     "Python.task-19-21.executor": "Run",
     "Python.task-19.executor": "Run",
+    "Python.task-1921-6065.executor": "Run",
     "Python.task-1921-7850.executor": "Run",
     "Python.task-1921-8684.executor": "Run",
     "Python.task-2-14651.executor": "Run",
@@ -226,14 +226,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Задание 25_3090 (простые делители)&#10;ответ:&#10;100000034 50000017&#10;100000042 50000021&#10;100000094 50000047&#10;100000118 50000059&#10;100000126 50000063&#10;&#10;https://kompege.ru/variant?kim=25084536">
-      <option name="closed" value="true" />
-      <created>1740498454764</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1740498454764</updated>
     </task>
     <task id="LOCAL-00063" summary="Задание 25_2716 (простые делители)&#10;ответ: _">
       <option name="closed" value="true" />
@@ -619,11 +611,18 @@
       <option name="project" value="LOCAL" />
       <updated>1744978224435</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="16 задание пробник дз&#10;ответ: 9341&#10;https://kompege.ru/variant?kim=25093291">
+      <option name="closed" value="true" />
+      <created>1744978861381</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1744978861381</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 19-21 (8684)&#10;&#10;ответ:&#10;# ans:&#10;# 19) 4&#10;# 20) 3&#10;# 21) 51&#10;&#10;https://kompege.ru/variant?kim=25091957" />
     <MESSAGE value="Задание 16 (18123)&#10;&#10;ответ:&#10;1&#10;&#10;https://kompege.ru/variant?kim=25091957" />
     <MESSAGE value="Задание 23 (13099)&#10;&#10;ответ:&#10;6&#10;&#10;https://kompege.ru/variant?kim=25091957" />
     <MESSAGE value="Задание 25 (9076)&#10;&#10;ответ:&#10;2023&#10;204323&#10;2025023&#10;20232023&#10;202302023&#10;&#10;https://kompege.ru/variant?kim=25091957" />
@@ -648,6 +647,7 @@
     <MESSAGE value="3, 10 задание пробник дз&#10;ответ: -&#10;https://kompege.ru/variant?kim=25093291" />
     <MESSAGE value="12 задание пробник дз&#10;ответ: 17&#10;https://kompege.ru/variant?kim=25093291" />
     <MESSAGE value="13 задание пробник дз&#10;ответ: 1663&#10;https://kompege.ru/variant?kim=25093291" />
-    <option name="LAST_COMMIT_MESSAGE" value="13 задание пробник дз&#10;ответ: 1663&#10;https://kompege.ru/variant?kim=25093291" />
+    <MESSAGE value="16 задание пробник дз&#10;ответ: 9341&#10;https://kompege.ru/variant?kim=25093291" />
+    <option name="LAST_COMMIT_MESSAGE" value="16 задание пробник дз&#10;ответ: 9341&#10;https://kompege.ru/variant?kim=25093291" />
   </component>
 </project>
