@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="24 (17563) регулярки (через finditer)&#10;&#10;ответ: 40">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="24 (21421) регулярки (через finditer)&#10;&#10;ответ: 19" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +128,7 @@
     "Python.task-23.executor": "Run",
     "Python.task-24- 19149.executor": "Run",
     "Python.task-24-17563.executor": "Run",
+    "Python.task-24-18597.executor": "Run",
     "Python.task-24-1866.executor": "Run",
     "Python.task-24-21421.executor": "Run",
     "Python.task-24-4602.executor": "Run",
@@ -236,14 +235,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Задание 23_4601&#10;(рекурсия)&#10;&#10;ответ: 376&#10;&#10;https://kompege.ru/variant?kim=25087370">
-      <option name="closed" value="true" />
-      <created>1741703987427</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1741703987427</updated>
     </task>
     <task id="LOCAL-00067" summary="Задание 23_4626&#10;(рекурсия)&#10;&#10;ответ: 36&#10;&#10;https://kompege.ru/variant?kim=25087370">
       <option name="closed" value="true" />
@@ -629,11 +620,18 @@
       <option name="project" value="LOCAL" />
       <updated>1744475730152</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="24 (21421) регулярки (через finditer)&#10;&#10;ответ: 19">
+      <option name="closed" value="true" />
+      <created>1745072897848</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1745072897848</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 25 (9076)&#10;&#10;ответ:&#10;2023&#10;204323&#10;2025023&#10;20232023&#10;202302023&#10;&#10;https://kompege.ru/variant?kim=25091957" />
     <MESSAGE value="задания 19-21 (845)&#10;&#10;19) [34]&#10;20) [33]&#10;21) [11, 32]&#10;https://kompege.ru/variant?kim=25091922" />
     <MESSAGE value="ср&#10;https://kompege.ru/variant?kim=25092369" />
     <MESSAGE value="9 задания кодом&#10;&#10;ответ: 104&#10;https://kompege.ru/variant?kim=25063517" />
@@ -658,6 +656,7 @@
     <MESSAGE value="24 (1866) регулярки (чере finditer)&#10;&#10;ответ: 2252" />
     <MESSAGE value="24 (4627) регулярки (через finditer)&#10;&#10;ответ: 327" />
     <MESSAGE value="24 (17563) регулярки (через finditer)&#10;&#10;ответ: 40" />
-    <option name="LAST_COMMIT_MESSAGE" value="24 (17563) регулярки (через finditer)&#10;&#10;ответ: 40" />
+    <MESSAGE value="24 (21421) регулярки (через finditer)&#10;&#10;ответ: 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="24 (21421) регулярки (через finditer)&#10;&#10;ответ: 19" />
   </component>
 </project>
