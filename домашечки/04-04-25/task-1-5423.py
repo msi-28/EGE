@@ -1,7 +1,7 @@
 from itertools import *
 
 graph = 'АБ БД ДЕ ЕЗ ЗЖ ЖВ ВГ ГА АД ВЗ'.split()
-matrix = '245 15 478 35 1246 58 38 367'.split()
+matrix = '245 15 478 135 1246 58 38 367'.split()
 
 print(*range(1, 9))
 for i in permutations('АБВГДЕЖЗ'):
@@ -9,5 +9,6 @@ for i in permutations('АБВГДЕЖЗ'):
         print(*i)
 
 # г -> З
-# 6 -> 1 = 6 -> 5 -> 1 = 1 + 4 = 5
-# ans = 5
+# 4 -> 8
+# 5+1+2+1+2 = 11
+# ans -> 11
