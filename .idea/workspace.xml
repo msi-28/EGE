@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="6 задание (4752)&#10;тип: угол не 90 блин жеесть&#10;ответ: 28&#10;https://kompege.ru/variant?kim=25094984">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="8 задание (3029)&#10;тип: -&#10;ответ: 2676053&#10;https://kompege.ru/variant?kim=25094984">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,6 +197,7 @@
     "Python.task-9-4589.executor": "Run",
     "Python.task-9-4614.executor": "Run",
     "Python.task-9-5489.executor": "Run",
+    "Python.task-9-6262.executor": "Run",
     "Python.task-9-9740.executor": "Run",
     "Python.task-9-9778.executor": "Run",
     "Python.task-9.executor": "Run",
@@ -217,11 +218,11 @@
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\22-03-25\task-26-17643" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\домашечки\17-04-25\9" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\домашечки\04-04-25\task-17-6791" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25\task-26" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25\task-24" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25\task-17" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -244,14 +245,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00077" summary="23_5937&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 4197234&#10;https://kompege.ru/variant?kim=25088219">
-      <option name="closed" value="true" />
-      <created>1741965593492</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1741965593492</updated>
     </task>
     <task id="LOCAL-00078" summary="23_5937&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 74&#10;https://kompege.ru/variant?kim=25088219">
       <option name="closed" value="true" />
@@ -637,11 +630,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745259086170</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="8 задание (3029)&#10;тип: -&#10;ответ: 2676053&#10;https://kompege.ru/variant?kim=25094984">
+      <option name="closed" value="true" />
+      <created>1745260209083</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1745260209084</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 9 (5489)&#10;Ответ: 241&#10;&#10;https://kompege.ru/variant?kim=25093291" />
     <MESSAGE value="Задание 12 (14373)&#10;Ответ: 16&#10;&#10;https://kompege.ru/variant?kim=25093291" />
     <MESSAGE value="Задание 14 (6847)&#10;Ответ: 297262&#10;&#10;https://kompege.ru/variant?kim=25093291" />
     <MESSAGE value="Задание 16 (5168)&#10;Ответ: хз&#10;&#10;https://kompege.ru/variant?kim=25093291" />
@@ -666,6 +666,7 @@
     <MESSAGE value="2 задание (5483)&#10;тип: -&#10;ответ: yzxw&#10;https://kompege.ru/variant?kim=25094984" />
     <MESSAGE value="5 задание (6588)&#10;тип: min N&#10;ответ: 32&#10;https://kompege.ru/variant?kim=25094984" />
     <MESSAGE value="6 задание (4752)&#10;тип: угол не 90 блин жеесть&#10;ответ: 28&#10;https://kompege.ru/variant?kim=25094984" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 задание (4752)&#10;тип: угол не 90 блин жеесть&#10;ответ: 28&#10;https://kompege.ru/variant?kim=25094984" />
+    <MESSAGE value="8 задание (3029)&#10;тип: -&#10;ответ: 2676053&#10;https://kompege.ru/variant?kim=25094984" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 задание (3029)&#10;тип: -&#10;ответ: 2676053&#10;https://kompege.ru/variant?kim=25094984" />
   </component>
 </project>
