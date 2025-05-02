@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="ср&#10;&#10;https://kompege.ru/variant?kim=25097987">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="задание 27 (21911)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 26216 24182&#10;б) 150891 63754&#10;&#10;https://kompege.ru/variant?kim=25097992">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,9 +202,11 @@
     "Python.task-27a-17882.executor": "Run",
     "Python.task-27a-20816.executor": "Run",
     "Python.task-27a-21425.executor": "Run",
+    "Python.task-27a-21720.executor": "Run",
     "Python.task-27b-17882.executor": "Run",
     "Python.task-27b-20816.executor": "Run",
     "Python.task-27b-21425.executor": "Run",
+    "Python.task-27b-21720.executor": "Run",
     "Python.task-27b-21911.executor": "Run",
     "Python.task-4278.executor": "Run",
     "Python.task-5-10657.executor": "Run",
@@ -228,7 +230,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/02-05-25 (dbscan)/27-21911",
+    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/02-05-25 (dbscan)/27-21720",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -241,11 +243,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\27-21720" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\27-21911" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-20816" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-21425" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-21425" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\ср" />
@@ -275,14 +277,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00084" summary="26_17643&#10;&#10;Ответ: 43656 36">
-      <option name="closed" value="true" />
-      <created>1742657906040</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1742657906040</updated>
     </task>
     <task id="LOCAL-00085" summary="-">
       <option name="closed" value="true" />
@@ -668,11 +662,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746197194650</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="задание 27 (21911)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 26216 24182&#10;б) 150891 63754&#10;&#10;https://kompege.ru/variant?kim=25097992">
+      <option name="closed" value="true" />
+      <created>1746198753947</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1746198753947</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="13 (10162)&#10;&#10;ответ: 224&#10;https://kompege.ru/variant?kim=25093689" />
     <MESSAGE value="13 (10161)&#10;&#10;ответ: 248&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10169)&#10;&#10;ответ: 21&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10170)&#10;&#10;ответ: 240&#10;https://kompege.ru/variant?kim=25093899" />
@@ -697,6 +698,7 @@
     <MESSAGE value="Задание 27 (21425)&#10;&#10;ответ:&#10;а) 167990 73043&#10;б) 122627 29105&#10;&#10;https://kompege.ru/variant?kim=25097427" />
     <MESSAGE value="домашка. переложить в другую дату, закомитить&#10;&#10;https://kompege.ru/variant?kim=25097485" />
     <MESSAGE value="ср&#10;&#10;https://kompege.ru/variant?kim=25097987" />
-    <option name="LAST_COMMIT_MESSAGE" value="ср&#10;&#10;https://kompege.ru/variant?kim=25097987" />
+    <MESSAGE value="задание 27 (21911)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 26216 24182&#10;б) 150891 63754&#10;&#10;https://kompege.ru/variant?kim=25097992" />
+    <option name="LAST_COMMIT_MESSAGE" value="задание 27 (21911)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 26216 24182&#10;б) 150891 63754&#10;&#10;https://kompege.ru/variant?kim=25097992" />
   </component>
 </project>
