@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427">
-      <change afterPath="$PROJECT_DIR$/будни/29-04-25(27 задания)/27-21425/27_B_21425.txt" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 27 (21425)&#10;&#10;ответ:&#10;а) 167990 73043&#10;б) 122627 29105&#10;&#10;https://kompege.ru/variant?kim=25097427">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,6 +177,7 @@
     "Python.task-25-8379.executor": "Run",
     "Python.task-25-892.executor": "Run",
     "Python.task-25-9076.executor": "Run",
+    "Python.task-25-9170.executor": "Run",
     "Python.task-25.executor": "Run",
     "Python.task-26-.executor": "Run",
     "Python.task-26-16390.executor": "Run",
@@ -195,8 +195,10 @@
     "Python.task-26.executor": "Run",
     "Python.task-27-17882.executor": "Run",
     "Python.task-27a-17882.executor": "Run",
+    "Python.task-27a-20816.executor": "Run",
     "Python.task-27a-21425.executor": "Run",
     "Python.task-27b-17882.executor": "Run",
+    "Python.task-27b-20816.executor": "Run",
     "Python.task-27b-21425.executor": "Run",
     "Python.task-4278.executor": "Run",
     "Python.task-5-10657.executor": "Run",
@@ -220,7 +222,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/29-04-25(27 задания)/27-21425",
+    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/домашечки/02-05-25/27-20816",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -233,18 +235,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-20816" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-21425" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-21425" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25\ср" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\17-04-25" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\19-04-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-21425" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-17882" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-335" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-8115-pl" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\12-04-25\task-24-1866" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -267,14 +269,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00080" summary="Крылов 26 задание вариант 1&#10;&#10;Ответ: 1952 2364">
-      <option name="closed" value="true" />
-      <created>1742052399331</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1742052399331</updated>
     </task>
     <task id="LOCAL-00081" summary="26_17537&#10;&#10;Ответ: 9991 5643&#10;&#10;нда треш">
       <option name="closed" value="true" />
@@ -660,11 +654,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745940684787</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Задание 27 (21425)&#10;&#10;ответ:&#10;а) 167990 73043&#10;б) 122627 29105&#10;&#10;https://kompege.ru/variant?kim=25097427">
+      <option name="closed" value="true" />
+      <created>1745942145957</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1745942145957</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="13 (11790)&#10;&#10;ответ: 252&#10;https://kompege.ru/variant?kim=25093689" />
     <MESSAGE value="13 (11791)&#10;&#10;ответ: 254&#10;https://kompege.ru/variant?kim=25093689" />
     <MESSAGE value="13 (11835)&#10;&#10;ответ: 37&#10;https://kompege.ru/variant?kim=25093689" />
     <MESSAGE value="13 (10162)&#10;&#10;ответ: 224&#10;https://kompege.ru/variant?kim=25093689" />
@@ -689,6 +690,7 @@
     <MESSAGE value="задачи с регулярками с полякова блин жиееесть" />
     <MESSAGE value="https://kompege.ru/variant?kim=25097415" />
     <MESSAGE value="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427" />
+    <MESSAGE value="Задание 27 (21425)&#10;&#10;ответ:&#10;а) 167990 73043&#10;б) 122627 29105&#10;&#10;https://kompege.ru/variant?kim=25097427" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 27 (21425)&#10;&#10;ответ:&#10;а) 167990 73043&#10;б) 122627 29105&#10;&#10;https://kompege.ru/variant?kim=25097427" />
   </component>
 </project>
