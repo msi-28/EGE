@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="домашка. переложить в другую дату, закомитить&#10;&#10;https://kompege.ru/variant?kim=25097485">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="ср&#10;&#10;https://kompege.ru/variant?kim=25097987">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -198,12 +198,14 @@
     "Python.task-26-9711.executor": "Run",
     "Python.task-26.executor": "Run",
     "Python.task-27-17882.executor": "Run",
+    "Python.task-27-21911.executor": "Run",
     "Python.task-27a-17882.executor": "Run",
     "Python.task-27a-20816.executor": "Run",
     "Python.task-27a-21425.executor": "Run",
     "Python.task-27b-17882.executor": "Run",
     "Python.task-27b-20816.executor": "Run",
     "Python.task-27b-21425.executor": "Run",
+    "Python.task-27b-21911.executor": "Run",
     "Python.task-4278.executor": "Run",
     "Python.task-5-10657.executor": "Run",
     "Python.task-5-14-327.executor": "Run",
@@ -226,7 +228,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/02-05-25",
+    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/02-05-25 (dbscan)/27-21911",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -239,18 +241,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\27-21911" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-20816" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-21425" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-21425" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\ср" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-21425" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-17882" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-335" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-8115-pl" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -273,22 +275,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00082" summary="-">
-      <option name="closed" value="true" />
-      <created>1742651336536</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1742651336536</updated>
-    </task>
-    <task id="LOCAL-00083" summary="26_2717&#10;&#10;Ответ: 1234 38468">
-      <option name="closed" value="true" />
-      <created>1742654502339</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1742654502339</updated>
     </task>
     <task id="LOCAL-00084" summary="26_17643&#10;&#10;Ответ: 43656 36">
       <option name="closed" value="true" />
@@ -666,11 +652,26 @@
       <option name="project" value="LOCAL" />
       <updated>1746193711373</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="ср&#10;&#10;https://kompege.ru/variant?kim=25097987">
+      <option name="closed" value="true" />
+      <created>1746197102168</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1746197102168</updated>
+    </task>
+    <task id="LOCAL-00132" summary="ср&#10;&#10;https://kompege.ru/variant?kim=25097987">
+      <option name="closed" value="true" />
+      <created>1746197194650</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1746197194650</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="13 (11835)&#10;&#10;ответ: 37&#10;https://kompege.ru/variant?kim=25093689" />
     <MESSAGE value="13 (10162)&#10;&#10;ответ: 224&#10;https://kompege.ru/variant?kim=25093689" />
     <MESSAGE value="13 (10161)&#10;&#10;ответ: 248&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10169)&#10;&#10;ответ: 21&#10;https://kompege.ru/variant?kim=25093899" />
@@ -695,6 +696,7 @@
     <MESSAGE value="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427" />
     <MESSAGE value="Задание 27 (21425)&#10;&#10;ответ:&#10;а) 167990 73043&#10;б) 122627 29105&#10;&#10;https://kompege.ru/variant?kim=25097427" />
     <MESSAGE value="домашка. переложить в другую дату, закомитить&#10;&#10;https://kompege.ru/variant?kim=25097485" />
-    <option name="LAST_COMMIT_MESSAGE" value="домашка. переложить в другую дату, закомитить&#10;&#10;https://kompege.ru/variant?kim=25097485" />
+    <MESSAGE value="ср&#10;&#10;https://kompege.ru/variant?kim=25097987" />
+    <option name="LAST_COMMIT_MESSAGE" value="ср&#10;&#10;https://kompege.ru/variant?kim=25097987" />
   </component>
 </project>
