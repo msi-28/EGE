@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="16 задание (17755)&#10;тип: -&#10;ответ: 270&#10;https://kompege.ru/variant?kim=25094984">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427">
+      <change afterPath="$PROJECT_DIR$/будни/29-04-25(27 задания)/27-21425/27_B_21425.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +46,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.13-10781.executor": "Run",
+    "Python.13-13885.executor": "Run",
+    "Python.24-8115.executor": "Run",
+    "Python.25-14438.executor": "Run",
+    "Python.25-5736.executor": "Run",
+    "Python.8-4320.executor": "Run",
     "Python.ask-24-15339.executor": "Run",
     "Python.correct-task-17.executor": "Run",
     "Python.f.executor": "Run",
     "Python.pydevd_console.executor": "Run",
     "Python.r.executor": "Run",
+    "Python.task-1- 21696.executor": "Run",
     "Python.task-1-17664.executor": "Run",
     "Python.task-1-18916.executor": "Run",
     "Python.task-1-4581.executor": "Run",
@@ -57,9 +65,7 @@
     "Python.task-11.executor": "Run",
     "Python.task-12-14947.executor": "Run",
     "Python.task-12-18579.executor": "Run",
-    "Python.task-12-20901.executor": "Run",
     "Python.task-12.executor": "Run",
-    "Python.task-13-10151.executor": "Run",
     "Python.task-13-10161.executor": "Run",
     "Python.task-13-10162.executor": "Run",
     "Python.task-13-10169.executor": "Run",
@@ -77,7 +83,6 @@
     "Python.task-14-1.executor": "Run",
     "Python.task-14-12246.executor": "Run",
     "Python.task-14-18122.executor": "Run",
-    "Python.task-14-18166.executor": "Run",
     "Python.task-14-19406.executor": "Run",
     "Python.task-14-2.executor": "Run",
     "Python.task-14.executor": "Run",
@@ -90,7 +95,6 @@
     "Python.task-15-12483.executor": "Run",
     "Python.task-15-14350.executor": "Run",
     "Python.task-15-14658.executor": "Run",
-    "Python.task-15-16262.executor": "Run",
     "Python.task-15-18175.executor": "Run",
     "Python.task-15-18489.executor": "Run",
     "Python.task-15-2861.executor": "Run",
@@ -103,7 +107,6 @@
     "Python.task-15-9784.executor": "Run",
     "Python.task-15.executor": "Run",
     "Python.task-15317.executor": "Run",
-    "Python.task-16-17755.executor": "Run",
     "Python.task-16-18123.executor": "Run",
     "Python.task-16.executor": "Run",
     "Python.task-17-18582.executor": "Run",
@@ -113,11 +116,11 @@
     "Python.task-17686.executor": "Run",
     "Python.task-19-21.executor": "Run",
     "Python.task-19.executor": "Run",
-    "Python.task-1921-19635.executor": "Run",
     "Python.task-1921-7850.executor": "Run",
     "Python.task-1921-8684.executor": "Run",
     "Python.task-2-14651.executor": "Run",
     "Python.task-2-18917.executor": "Run",
+    "Python.task-2-21697.executor": "Run",
     "Python.task-2-4459.executor": "Run",
     "Python.task-2-auto.executor": "Run",
     "Python.task-2.executor": "Run",
@@ -147,6 +150,14 @@
     "Python.task-24-21421.executor": "Run",
     "Python.task-24-4602.executor": "Run",
     "Python.task-24-4627.executor": "Run",
+    "Python.task-24-4723.executor": "Run",
+    "Python.task-24-5829.executor": "Run",
+    "Python.task-24-6680.executor": "Run",
+    "Python.task-24-7979.executor": "Run",
+    "Python.task-24-8058.executor": "Run",
+    "Python.task-24-8060.executor": "Run",
+    "Python.task-24-8100.executor": "Run",
+    "Python.task-24-8579.executor": "Run",
     "Python.task-24.executor": "Run",
     "Python.task-25-11814.executor": "Run",
     "Python.task-25-11955.executor": "Run",
@@ -163,7 +174,6 @@
     "Python.task-25-4276.executor": "Run",
     "Python.task-25-4938.executor": "Run",
     "Python.task-25-5678.executor": "Run",
-    "Python.task-25-5735.executor": "Run",
     "Python.task-25-67.executor": "Run",
     "Python.task-25-8379.executor": "Run",
     "Python.task-25-892.executor": "Run",
@@ -183,13 +193,19 @@
     "Python.task-26-9171.executor": "Run",
     "Python.task-26-9711.executor": "Run",
     "Python.task-26.executor": "Run",
+    "Python.task-27-17882.executor": "Run",
+    "Python.task-27a-17882.executor": "Run",
+    "Python.task-27a-21425.executor": "Run",
+    "Python.task-27b-17882.executor": "Run",
+    "Python.task-27b-21425.executor": "Run",
     "Python.task-4278.executor": "Run",
     "Python.task-5-10657.executor": "Run",
     "Python.task-5-14-327.executor": "Run",
     "Python.task-5-18578.executor": "Run",
     "Python.task-5-19237.executor": "Run",
-    "Python.task-5-20883.executor": "Run",
+    "Python.task-5-21700.executor": "Run",
     "Python.task-5.executor": "Run",
+    "Python.task-5401.executor": "Run",
     "Python.task-6.executor": "Run",
     "Python.task-7.executor": "Run",
     "Python.task-8-13298.executor": "Run",
@@ -204,7 +220,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/домашечки/17-04-25",
+    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/29-04-25(27 задания)/27-21425",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -217,18 +233,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-21425" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25\ср" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\17-04-25" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\19-04-25" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\12-04-25\task-24- 19149" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\12-04-25\task-24-17563" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\12-04-25\task-24-4627" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-17882" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-335" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-8115-pl" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\12-04-25\task-24-1866" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25\task-26" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25\task-24" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\пробники\prod-24-03-25\task-17" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -251,14 +267,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00079" summary="23_5762&#10;(рекурсия с условием на действия)&#10;&#10;ответ: 130771&#10;https://kompege.ru/variant?kim=25088219">
-      <option name="closed" value="true" />
-      <created>1741967085954</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1741967085954</updated>
     </task>
     <task id="LOCAL-00080" summary="Крылов 26 задание вариант 1&#10;&#10;Ответ: 1952 2364">
       <option name="closed" value="true" />
@@ -604,50 +612,59 @@
       <option name="project" value="LOCAL" />
       <updated>1745078913130</updated>
     </task>
-    <task id="LOCAL-00123" summary="12 задание (20901)&#10;тип: готовая строка&#10;ответ: 273&#10;https://kompege.ru/variant?kim=25094984">
+    <task id="LOCAL-00123" summary="ЕГКР">
       <option name="closed" value="true" />
-      <created>1745342311675</created>
+      <created>1745676012799</created>
       <option name="number" value="00123" />
       <option name="presentableId" value="LOCAL-00123" />
       <option name="project" value="LOCAL" />
-      <updated>1745342311675</updated>
+      <updated>1745676012799</updated>
     </task>
-    <task id="LOCAL-00124" summary="13 задание (10151)&#10;тип: -&#10;ответ: 0&#10;https://kompege.ru/variant?kim=25094984">
+    <task id="LOCAL-00124" summary="задачи с регулярками с полякова блин жиееесть">
       <option name="closed" value="true" />
-      <created>1745342943891</created>
+      <created>1745688601132</created>
       <option name="number" value="00124" />
       <option name="presentableId" value="LOCAL-00124" />
       <option name="project" value="LOCAL" />
-      <updated>1745342943891</updated>
+      <updated>1745688601132</updated>
     </task>
-    <task id="LOCAL-00125" summary="14 задание (18166)&#10;тип: -&#10;ответ: 1876&#10;https://kompege.ru/variant?kim=25094984">
+    <task id="LOCAL-00125" summary="https://kompege.ru/variant?kim=25097415">
       <option name="closed" value="true" />
-      <created>1745343187468</created>
+      <created>1745938230257</created>
       <option name="number" value="00125" />
       <option name="presentableId" value="LOCAL-00125" />
       <option name="project" value="LOCAL" />
-      <updated>1745343187468</updated>
+      <updated>1745938230257</updated>
     </task>
-    <task id="LOCAL-00126" summary="15 задание (16262)&#10;тип: -&#10;ответ: 5&#10;https://kompege.ru/variant?kim=25094984">
+    <task id="LOCAL-00126" summary="https://kompege.ru/variant?kim=25097415">
       <option name="closed" value="true" />
-      <created>1745344033218</created>
+      <created>1745938251226</created>
       <option name="number" value="00126" />
       <option name="presentableId" value="LOCAL-00126" />
       <option name="project" value="LOCAL" />
-      <updated>1745344033219</updated>
+      <updated>1745938251226</updated>
     </task>
-    <task id="LOCAL-00127" summary="16 задание (17755)&#10;тип: -&#10;ответ: 270&#10;https://kompege.ru/variant?kim=25094984">
+    <task id="LOCAL-00127" summary="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427">
       <option name="closed" value="true" />
-      <created>1745344188865</created>
+      <created>1745940662290</created>
       <option name="number" value="00127" />
       <option name="presentableId" value="LOCAL-00127" />
       <option name="project" value="LOCAL" />
-      <updated>1745344188865</updated>
+      <updated>1745940662290</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427">
+      <option name="closed" value="true" />
+      <created>1745940684787</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1745940684787</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="13 (11790)&#10;&#10;ответ: 252&#10;https://kompege.ru/variant?kim=25093689" />
     <MESSAGE value="13 (11791)&#10;&#10;ответ: 254&#10;https://kompege.ru/variant?kim=25093689" />
     <MESSAGE value="13 (11835)&#10;&#10;ответ: 37&#10;https://kompege.ru/variant?kim=25093689" />
     <MESSAGE value="13 (10162)&#10;&#10;ответ: 224&#10;https://kompege.ru/variant?kim=25093689" />
@@ -668,11 +685,10 @@
     <MESSAGE value="24 (16269) регулярки (через finditer)&#10;&#10;ответ: 50 но должно быть 52" />
     <MESSAGE value="24 (15339) регулярки (через finditer)&#10;&#10;ответ: 22" />
     <MESSAGE value="24 (16269) регулярки (через finditer)&#10;&#10;ответ: 52&#10;пофикшено через индексы" />
-    <MESSAGE value="12 задание (20901)&#10;тип: готовая строка&#10;ответ: 273&#10;https://kompege.ru/variant?kim=25094984" />
-    <MESSAGE value="13 задание (10151)&#10;тип: -&#10;ответ: 0&#10;https://kompege.ru/variant?kim=25094984" />
-    <MESSAGE value="14 задание (18166)&#10;тип: -&#10;ответ: 1876&#10;https://kompege.ru/variant?kim=25094984" />
-    <MESSAGE value="15 задание (16262)&#10;тип: -&#10;ответ: 5&#10;https://kompege.ru/variant?kim=25094984" />
-    <MESSAGE value="16 задание (17755)&#10;тип: -&#10;ответ: 270&#10;https://kompege.ru/variant?kim=25094984" />
-    <option name="LAST_COMMIT_MESSAGE" value="16 задание (17755)&#10;тип: -&#10;ответ: 270&#10;https://kompege.ru/variant?kim=25094984" />
+    <MESSAGE value="ЕГКР" />
+    <MESSAGE value="задачи с регулярками с полякова блин жиееесть" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25097415" />
+    <MESSAGE value="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427" />
   </component>
 </project>
