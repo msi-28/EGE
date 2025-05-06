@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="задание 27 (21720)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 32540 13646&#10;б) 47031 25263&#10;&#10;https://kompege.ru/variant?kim=25097992">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/домашечки/02-05-25/27/19747/19747B.py" beforeDir="false" afterPath="$PROJECT_DIR$/домашечки/02-05-25/27/19747/19747B.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
     "Python.13-10781.executor": "Run",
     "Python.13-13885.executor": "Run",
     "Python.14.executor": "Run",
+    "Python.19747B.executor": "Run",
     "Python.24-8115.executor": "Run",
     "Python.25-14438.executor": "Run",
     "Python.25-5736.executor": "Run",
