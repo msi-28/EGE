@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="задание 27 (21720)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 32540 13646&#10;б) 47031 25263&#10;&#10;https://kompege.ru/variant?kim=25097992">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="задание 27 (21932)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) -&#10;б) -&#10;&#10;https://kompege.ru/variant?kim=25097992" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -279,14 +277,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00086" summary="Задание 19-21 (7850)&#10;&#10;ответ:&#10;# ans:&#10;# 19) 36&#10;# 20) 18 33&#10;# 21) 32 34&#10;&#10;https://kompege.ru/variant?kim=25091957">
-      <option name="closed" value="true" />
-      <created>1743703248508</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1743703248509</updated>
     </task>
     <task id="LOCAL-00087" summary="Задание 19-21 (8684)&#10;&#10;ответ:&#10;# ans:&#10;# 19) 4&#10;# 20) 3&#10;# 21) 51&#10;&#10;https://kompege.ru/variant?kim=25091957">
       <option name="closed" value="true" />
@@ -672,11 +662,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746199833051</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="задание 27 (21932)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) -&#10;б) -&#10;&#10;https://kompege.ru/variant?kim=25097992">
+      <option name="closed" value="true" />
+      <created>1746201291190</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1746201291190</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="13 (10169)&#10;&#10;ответ: 21&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10170)&#10;&#10;ответ: 240&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10782)&#10;&#10;ответ: 21&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10781)&#10;&#10;ответ: 8192&#10;https://kompege.ru/variant?kim=25093899" />
@@ -701,6 +698,7 @@
     <MESSAGE value="ср&#10;&#10;https://kompege.ru/variant?kim=25097987" />
     <MESSAGE value="задание 27 (21911)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 26216 24182&#10;б) 150891 63754&#10;&#10;https://kompege.ru/variant?kim=25097992" />
     <MESSAGE value="задание 27 (21720)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 32540 13646&#10;б) 47031 25263&#10;&#10;https://kompege.ru/variant?kim=25097992" />
-    <option name="LAST_COMMIT_MESSAGE" value="задание 27 (21720)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 32540 13646&#10;б) 47031 25263&#10;&#10;https://kompege.ru/variant?kim=25097992" />
+    <MESSAGE value="задание 27 (21932)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) -&#10;б) -&#10;&#10;https://kompege.ru/variant?kim=25097992" />
+    <option name="LAST_COMMIT_MESSAGE" value="задание 27 (21932)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) -&#10;б) -&#10;&#10;https://kompege.ru/variant?kim=25097992" />
   </component>
 </project>
