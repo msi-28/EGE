@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="задание 27 (21720)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 32540 13646&#10;б) 47031 25263&#10;&#10;https://kompege.ru/variant?kim=25097992">
-      <change beforePath="$PROJECT_DIR$/домашечки/02-05-25/27/19747/19747B.py" beforeDir="false" afterPath="$PROJECT_DIR$/домашечки/02-05-25/27/19747/19747B.py" afterDir="false" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="задание 27(19747)&#10;тип: кластеры, центр&#10;ответ:&#10;а) 532496 533164&#10;б) 1091104 954833&#10;&#10;https://kompege.ru/variant?kim=25098009">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,12 @@
     "Python.13-10781.executor": "Run",
     "Python.13-13885.executor": "Run",
     "Python.14.executor": "Run",
+    "Python.19566a.executor": "Run",
+    "Python.19715a.executor": "Run",
+    "Python.19715b.executor": "Run",
     "Python.19747B.executor": "Run",
+    "Python.20497a.executor": "Run",
+    "Python.20497b.executor": "Run",
     "Python.24-8115.executor": "Run",
     "Python.25-14438.executor": "Run",
     "Python.25-5736.executor": "Run",
@@ -233,7 +238,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/02-05-25 (dbscan)/27-21932",
+    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/06-05-25/27/19566",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -246,11 +251,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\27-21932" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\27-21720" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\27-21911" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-20816" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27\19566" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27\19715" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27\20497" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27\19891" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\ср" />
@@ -280,14 +285,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00086" summary="Задание 19-21 (7850)&#10;&#10;ответ:&#10;# ans:&#10;# 19) 36&#10;# 20) 18 33&#10;# 21) 32 34&#10;&#10;https://kompege.ru/variant?kim=25091957">
-      <option name="closed" value="true" />
-      <created>1743703248508</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1743703248509</updated>
     </task>
     <task id="LOCAL-00087" summary="Задание 19-21 (8684)&#10;&#10;ответ:&#10;# ans:&#10;# 19) 4&#10;# 20) 3&#10;# 21) 51&#10;&#10;https://kompege.ru/variant?kim=25091957">
       <option name="closed" value="true" />
@@ -673,11 +670,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746199833051</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="задание 27(19747)&#10;тип: кластеры, центр&#10;ответ:&#10;а) 532496 533164&#10;б) 1091104 954833&#10;&#10;https://kompege.ru/variant?kim=25098009">
+      <option name="closed" value="true" />
+      <created>1746540007594</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1746540007594</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="13 (10169)&#10;&#10;ответ: 21&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10170)&#10;&#10;ответ: 240&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10782)&#10;&#10;ответ: 21&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10781)&#10;&#10;ответ: 8192&#10;https://kompege.ru/variant?kim=25093899" />
@@ -702,6 +706,7 @@
     <MESSAGE value="ср&#10;&#10;https://kompege.ru/variant?kim=25097987" />
     <MESSAGE value="задание 27 (21911)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 26216 24182&#10;б) 150891 63754&#10;&#10;https://kompege.ru/variant?kim=25097992" />
     <MESSAGE value="задание 27 (21720)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 32540 13646&#10;б) 47031 25263&#10;&#10;https://kompege.ru/variant?kim=25097992" />
-    <option name="LAST_COMMIT_MESSAGE" value="задание 27 (21720)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 32540 13646&#10;б) 47031 25263&#10;&#10;https://kompege.ru/variant?kim=25097992" />
+    <MESSAGE value="задание 27(19747)&#10;тип: кластеры, центр&#10;ответ:&#10;а) 532496 533164&#10;б) 1091104 954833&#10;&#10;https://kompege.ru/variant?kim=25098009" />
+    <option name="LAST_COMMIT_MESSAGE" value="задание 27(19747)&#10;тип: кластеры, центр&#10;ответ:&#10;а) 532496 533164&#10;б) 1091104 954833&#10;&#10;https://kompege.ru/variant?kim=25098009" />
   </component>
 </project>
