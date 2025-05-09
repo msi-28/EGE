@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427">
-      <change afterPath="$PROJECT_DIR$/будни/29-04-25(27 задания)/27-21425/27_B_21425.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +47,15 @@
   "keyToString": {
     "Python.13-10781.executor": "Run",
     "Python.13-13885.executor": "Run",
+    "Python.16.executor": "Run",
+    "Python.1921.executor": "Run",
+    "Python.23.executor": "Run",
     "Python.24-8115.executor": "Run",
     "Python.25-14438.executor": "Run",
     "Python.25-5736.executor": "Run",
+    "Python.25.executor": "Run",
+    "Python.27a.executor": "Run",
+    "Python.27b.executor": "Run",
     "Python.8-4320.executor": "Run",
     "Python.ask-24-15339.executor": "Run",
     "Python.correct-task-17.executor": "Run",
@@ -220,7 +225,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/29-04-25(27 задания)/27-21425",
+    "last_opened_file_path": "C:/Users/mrnvf/OneDrive/Рабочий стол/EGE/будни/09-05-25/ср",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -233,11 +238,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\09-05-25\ср" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-21425" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25\ср" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\17-04-25" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\19-04-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-17882" />
