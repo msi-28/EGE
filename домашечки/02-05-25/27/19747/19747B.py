@@ -1,9 +1,8 @@
 from math import dist
 from turtle import *
-# tracer(0)
-# m = 50
-# screensize(2000, 2000)
-# speed(1000)
+tracer(0)
+m = 40
+screensize(2000, 2000)
 
 with open('27B_19747.txt') as file:
     k1 = []
@@ -33,14 +32,15 @@ def center(k):
         distance.append([sum_dist, dot])
     return min(distance)[1]
 
-# up()
-# for k, col in [[k1, 'red'], [k2, 'blue'], [k3, 'green'], [k4, 'orange'], [k5, 'black']]:
-#         k = sorted(k, key=lambda x: x[1])
-#         print(k)
-#         for x, y in k:
-#             dot(3, col)
-#             goto(x * m, y * m)
-# done()
+up()
+for k, col in [[k1, 'red'], [k2, 'blue'], [k3, 'green'], [k4, 'orange'], [k5, 'black']]:
+        k = sorted(k, key=lambda x: x[1])
+        print(k)
+        for x, y in k:
+            goto(x * m, y * m)
+            dot(3, col)
+
+done()
 
 
 c1 = center(k1)
