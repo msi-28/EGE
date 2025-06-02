@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="задание 27(19747)&#10;тип: кластеры, центр&#10;ответ:&#10;а) 532496 533164&#10;б) 1091104 954833&#10;&#10;https://kompege.ru/variant?kim=25098009">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="26 задания &#10;https://kompege.ru/variant?kim=25101707">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,22 +45,41 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.12671.executor": "Run",
     "Python.13-10781.executor": "Run",
     "Python.13-13885.executor": "Run",
     "Python.14.executor": "Run",
+    "Python.16367.executor": "Run",
+    "Python.17518.executor": "Run",
+    "Python.17543.executor": "Run",
+    "Python.17546.executor": "Run",
+    "Python.17620.executor": "Run",
+    "Python.17621.executor": "Run",
+    "Python.17624.executor": "Run",
+    "Python.17859.executor": "Run",
     "Python.19566a.executor": "Run",
     "Python.19715a.executor": "Run",
     "Python.19715b.executor": "Run",
     "Python.19747B.executor": "Run",
     "Python.20497a.executor": "Run",
     "Python.20497b.executor": "Run",
+    "Python.20801.executor": "Run",
+    "Python.20802.executor": "Run",
+    "Python.21400.executor": "Run",
+    "Python.21401.executor": "Run",
+    "Python.21404.executor": "Run",
+    "Python.21696.executor": "Run",
+    "Python.21697.executor": "Run",
     "Python.24-8115.executor": "Run",
     "Python.25-14438.executor": "Run",
     "Python.25-5736.executor": "Run",
     "Python.27a.executor": "Run",
     "Python.27b.executor": "Run",
     "Python.34.executor": "Run",
+    "Python.4606.executor": "Run",
     "Python.8-4320.executor": "Run",
+    "Python.9771.executor": "Run",
+    "Python.9828.executor": "Run",
     "Python.ask-24-15339.executor": "Run",
     "Python.correct-task-17.executor": "Run",
     "Python.f.executor": "Run",
@@ -238,7 +257,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/будни/06-05-25/27/19566",
+    "last_opened_file_path": "C:/Users/MVarfolomeeva/Desktop/EGE/шпора",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -251,18 +270,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\шпора" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\интенсив" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27\19566" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27\19715" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27\20497" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27\19891" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\шпора\task-3" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\ср" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-21425" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-17882" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-335" />
     </key>
   </component>
   <component name="RunAnythingCache">
