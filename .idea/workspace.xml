@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="24 задания 2023&#10;&#10;https://kompege.ru/variant?kim=25099956">
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="ср&#10;&#10;https://kompege.ru/variant?kim=25101116">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +28,12 @@
     &quot;assignee&quot;: &quot;msi-28&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/msi-28/EGE.git",
-    "accountId": "3fba0570-7a5a-415f-89fb-8927bccdcebd"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/msi-28/EGE.git&quot;,
+    &quot;accountId&quot;: &quot;3fba0570-7a5a-415f-89fb-8927bccdcebd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -48,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.12-1.executor": "Run",
     "Python.12.executor": "Run",
     "Python.13-10781.executor": "Run",
     "Python.13-13885.executor": "Run",
@@ -61,9 +62,17 @@
     "Python.2.executor": "Run",
     "Python.23.executor": "Run",
     "Python.24-1.executor": "Run",
+    "Python.24-15339.executor": "Run",
+    "Python.24-17563.executor": "Run",
+    "Python.24-17641.executor": "Run",
     "Python.24-1866.executor": "Run",
+    "Python.24-19254.executor": "Run",
     "Python.24-1975.executor": "Run",
     "Python.24-2.executor": "Run",
+    "Python.24-20909.executor": "Run",
+    "Python.24-21421.executor": "Run",
+    "Python.24-21717.executor": "Run",
+    "Python.24-21908.executor": "Run",
     "Python.24-2942.executor": "Run",
     "Python.24-3228.executor": "Run",
     "Python.24-3584.executor": "Run",
@@ -85,10 +94,21 @@
     "Python.25-14438.executor": "Run",
     "Python.25-5736.executor": "Run",
     "Python.25.executor": "Run",
+    "Python.26-1868.executor": "Run",
+    "Python.26-2944.executor": "Run",
+    "Python.26-3230.executor": "Run",
+    "Python.26-3586.executor": "Run",
+    "Python.26-4205.executor": "Run",
+    "Python.26-4606.executor": "Run",
+    "Python.26-4629.executor": "Run",
+    "Python.26-4660.executor": "Run",
+    "Python.26-4684.executor": "Run",
     "Python.27a.executor": "Run",
     "Python.27b.executor": "Run",
     "Python.5.executor": "Run",
     "Python.6.executor": "Run",
+    "Python.8-1.executor": "Run",
+    "Python.8-2.executor": "Run",
     "Python.8-4320.executor": "Run",
     "Python.8.executor": "Run",
     "Python.9.executor": "Run",
@@ -260,7 +280,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/mrnvf/OneDrive/Рабочий стол/EGE/будни/20-05-25/ср",
+    "last_opened_file_path": "C:/Users/mrnvf/OneDrive/Рабочий стол/EGE/будни/30-05-25/ср",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -273,18 +293,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\30-05-25\ср" />
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\23-05-25\2025" />
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\20-05-25\2024" />
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\23-05-25\ср" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\20-05-25\ср" />
-      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\13-05-25(24 задания типа вообще все...)\сборник 2023" />
-      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\13-05-25(24 задания типа вообще все...)\сборник 2022" />
-      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\13-05-25\ср" />
-      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\пробники\dz-prob-08-05-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\будни\23-05-25\2025" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-17882" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-335" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-8115-pl" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\12-04-25\task-24-1866" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -307,14 +327,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00087" summary="Задание 19-21 (8684)&#10;&#10;ответ:&#10;# ans:&#10;# 19) 4&#10;# 20) 3&#10;# 21) 51&#10;&#10;https://kompege.ru/variant?kim=25091957">
-      <option name="closed" value="true" />
-      <created>1743706937656</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1743706937656</updated>
     </task>
     <task id="LOCAL-00088" summary="Задание 16 (18123)&#10;&#10;ответ:&#10;1&#10;&#10;https://kompege.ru/variant?kim=25091957">
       <option name="closed" value="true" />
@@ -700,11 +712,18 @@
       <option name="project" value="LOCAL" />
       <updated>1747749539003</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="ср&#10;&#10;https://kompege.ru/variant?kim=25101116">
+      <option name="closed" value="true" />
+      <created>1747753562105</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1747753562105</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="13 (10170)&#10;&#10;ответ: 240&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10782)&#10;&#10;ответ: 21&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10781)&#10;&#10;ответ: 8192&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="24 (1866) регулярки&#10;&#10;ответ: 2252" />
@@ -729,6 +748,7 @@
     <MESSAGE value="ср&#10;&#10;https://kompege.ru/variant?kim=25099952" />
     <MESSAGE value="24 задания 2022&#10;&#10;https://kompege.ru/variant?kim=25099953" />
     <MESSAGE value="24 задания 2023&#10;&#10;https://kompege.ru/variant?kim=25099956" />
-    <option name="LAST_COMMIT_MESSAGE" value="24 задания 2023&#10;&#10;https://kompege.ru/variant?kim=25099956" />
+    <MESSAGE value="ср&#10;&#10;https://kompege.ru/variant?kim=25101116" />
+    <option name="LAST_COMMIT_MESSAGE" value="ср&#10;&#10;https://kompege.ru/variant?kim=25101116" />
   </component>
 </project>
