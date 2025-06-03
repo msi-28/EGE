@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз. ответ: 1610">
-      <change afterPath="$PROJECT_DIR$/шпора/task-3/03_4583.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз. ответ: 490" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -318,30 +315,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00097" summary="13 (17632)&#10;&#10;ответ: 215766&#10;https://kompege.ru/variant?kim=25093689">
-      <option name="closed" value="true" />
-      <created>1744382374341</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1744382374341</updated>
-    </task>
-    <task id="LOCAL-00098" summary="13 (17676)&#10;&#10;ответ: 2796202&#10;https://kompege.ru/variant?kim=25093689">
-      <option name="closed" value="true" />
-      <created>1744382530855</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1744382530855</updated>
-    </task>
-    <task id="LOCAL-00099" summary="13 (11794)&#10;&#10;ответ: 248&#10;https://kompege.ru/variant?kim=25093689">
-      <option name="closed" value="true" />
-      <created>1744383234282</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1744383234282</updated>
     </task>
     <task id="LOCAL-00100" summary="13 (11790)&#10;&#10;ответ: 252&#10;https://kompege.ru/variant?kim=25093689">
       <option name="closed" value="true" />
@@ -711,12 +684,34 @@
       <option name="project" value="LOCAL" />
       <updated>1748942426888</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="дз. ответ: 1610">
+      <option name="closed" value="true" />
+      <created>1748942791772</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1748942791772</updated>
+    </task>
+    <task id="LOCAL-00147" summary="дз. ответ: 420">
+      <option name="closed" value="true" />
+      <created>1748942959204</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1748942959204</updated>
+    </task>
+    <task id="LOCAL-00148" summary="дз. ответ: 490">
+      <option name="closed" value="true" />
+      <created>1748943263920</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1748943263920</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="24 (18147) регулярки (через finditer)&#10;&#10;ответ: 9988877898985" />
-    <MESSAGE value="24 (16269) регулярки (через finditer)&#10;&#10;ответ: 50 но должно быть 52" />
     <MESSAGE value="24 (15339) регулярки (через finditer)&#10;&#10;ответ: 22" />
     <MESSAGE value="24 (16269) регулярки (через finditer)&#10;&#10;ответ: 52&#10;пофикшено через индексы" />
     <MESSAGE value="ЕГКР" />
@@ -740,6 +735,8 @@
     <MESSAGE value="дз. ответ: yxwz" />
     <MESSAGE value="дз. ответ: zwyx" />
     <MESSAGE value="дз. ответ: 1610" />
-    <option name="LAST_COMMIT_MESSAGE" value="дз. ответ: 1610" />
+    <MESSAGE value="дз. ответ: 420" />
+    <MESSAGE value="дз. ответ: 490" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз. ответ: 490" />
   </component>
 </project>
