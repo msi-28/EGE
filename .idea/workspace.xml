@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз. ответ: 60065" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз. ответ: 56" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +56,7 @@
     "Python.17.executor": "Run",
     "Python.1845.executor": "Run",
     "Python.1846.executor": "Run",
+    "Python.1849.executor": "Run",
     "Python.19-21.executor": "Run",
     "Python.1921.executor": "Run",
     "Python.2.executor": "Run",
@@ -315,22 +316,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00101" summary="13 (11791)&#10;&#10;ответ: 254&#10;https://kompege.ru/variant?kim=25093689">
-      <option name="closed" value="true" />
-      <created>1744384266623</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1744384266623</updated>
-    </task>
-    <task id="LOCAL-00102" summary="13 (11835)&#10;&#10;ответ: 37&#10;https://kompege.ru/variant?kim=25093689">
-      <option name="closed" value="true" />
-      <created>1744384574959</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1744384574959</updated>
     </task>
     <task id="LOCAL-00103" summary="13 (10162)&#10;&#10;ответ: 224&#10;https://kompege.ru/variant?kim=25093689">
       <option name="closed" value="true" />
@@ -708,12 +693,26 @@
       <option name="project" value="LOCAL" />
       <updated>1748943494385</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="дз. ответ: 2550">
+      <option name="closed" value="true" />
+      <created>1748943735800</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1748943735800</updated>
+    </task>
+    <task id="LOCAL-00151" summary="дз. ответ: 56">
+      <option name="closed" value="true" />
+      <created>1748943944989</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1748943944989</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="24 (16269) регулярки (через finditer)&#10;&#10;ответ: 52&#10;пофикшено через индексы" />
-    <MESSAGE value="ЕГКР" />
     <MESSAGE value="задачи с регулярками с полякова блин жиееесть" />
     <MESSAGE value="https://kompege.ru/variant?kim=25097415" />
     <MESSAGE value="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427" />
@@ -737,6 +736,8 @@
     <MESSAGE value="дз. ответ: 420" />
     <MESSAGE value="дз. ответ: 490" />
     <MESSAGE value="дз. ответ: 60065" />
-    <option name="LAST_COMMIT_MESSAGE" value="дз. ответ: 60065" />
+    <MESSAGE value="дз. ответ: 2550" />
+    <MESSAGE value="дз. ответ: 56" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз. ответ: 56" />
   </component>
 </project>
