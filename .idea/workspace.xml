@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="24 задания 2023&#10;&#10;https://kompege.ru/variant?kim=25099956">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="24 задания 2023&#10;&#10;https://kompege.ru/variant?kim=25099956" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,12 +26,12 @@
     &quot;assignee&quot;: &quot;msi-28&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/msi-28/EGE.git",
-    "accountId": "3fba0570-7a5a-415f-89fb-8927bccdcebd"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/msi-28/EGE.git&quot;,
+    &quot;accountId&quot;: &quot;3fba0570-7a5a-415f-89fb-8927bccdcebd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -56,6 +54,7 @@
     "Python.15-1.executor": "Run",
     "Python.16.executor": "Run",
     "Python.17.executor": "Run",
+    "Python.1845.executor": "Run",
     "Python.19-21.executor": "Run",
     "Python.1921.executor": "Run",
     "Python.2.executor": "Run",
