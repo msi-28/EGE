@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз. ответ: 141" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз. ответ: 24">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
   "keyToString": {
     "Python.1.executor": "Run",
     "Python.12.executor": "Run",
+    "Python.12237.executor": "Run",
     "Python.13-10781.executor": "Run",
     "Python.13-13885.executor": "Run",
     "Python.13.executor": "Run",
@@ -54,6 +57,12 @@
     "Python.15-1.executor": "Run",
     "Python.16.executor": "Run",
     "Python.17.executor": "Run",
+    "Python.17521.executor": "Run",
+    "Python.17547.executor": "Run",
+    "Python.17549.executor": "Run",
+    "Python.17550.executor": "Run",
+    "Python.17625.executor": "Run",
+    "Python.17627.executor": "Run",
     "Python.17668.executor": "Run",
     "Python.1845.executor": "Run",
     "Python.1846.executor": "Run",
@@ -61,6 +70,8 @@
     "Python.19-21.executor": "Run",
     "Python.1921.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.20897.executor": "Run",
+    "Python.20898.executor": "Run",
     "Python.23.executor": "Run",
     "Python.24-1.executor": "Run",
     "Python.24-1866.executor": "Run",
@@ -102,8 +113,10 @@
     "Python.9733.executor": "Run",
     "Python.9770.executor": "Run",
     "Python.9774.executor": "Run",
+    "Python.9778.executor": "Run",
     "Python.9824.executor": "Run",
     "Python.9825.executor": "Run",
+    "Python.9832.executor": "Run",
     "Python.ask-24-15339.executor": "Run",
     "Python.correct-task-17.executor": "Run",
     "Python.f.executor": "Run",
@@ -292,11 +305,11 @@
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\пробники\dz-prob-08-05-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\шпора\task-10" />
       <recent name="C:\Users\mrnvf\OneDrive\Рабочий стол\EGE\шпора\task-3" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\29-04-25(27 задания)\27-17882" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-335" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\суббота\26-04-25-(поляков)\24-8115-pl" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -319,22 +332,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00105" summary="13 (10169)&#10;&#10;ответ: 21&#10;https://kompege.ru/variant?kim=25093899">
-      <option name="closed" value="true" />
-      <created>1744385665590</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1744385665590</updated>
-    </task>
-    <task id="LOCAL-00106" summary="13 (10170)&#10;&#10;ответ: 240&#10;https://kompege.ru/variant?kim=25093899">
-      <option name="closed" value="true" />
-      <created>1744385805644</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1744385805644</updated>
     </task>
     <task id="LOCAL-00107" summary="13 (10781)&#10;&#10;ответ: 8192&#10;https://kompege.ru/variant?kim=25093899">
       <option name="closed" value="true" />
@@ -712,11 +709,26 @@
       <option name="project" value="LOCAL" />
       <updated>1748944215276</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="дз. ответ: 42">
+      <option name="closed" value="true" />
+      <created>1748944349672</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1748944349672</updated>
+    </task>
+    <task id="LOCAL-00155" summary="дз. ответ: 24">
+      <option name="closed" value="true" />
+      <created>1748944565677</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1748944565677</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 27 (17882)&#10;&#10;ответ:&#10;а) 10738 30730&#10;б) 37522 51328&#10;&#10;https://kompege.ru/variant?kim=25097427" />
     <MESSAGE value="ср&#10;&#10;https://kompege.ru/variant?kim=25098723" />
     <MESSAGE value="27&#10;&#10;https://kompege.ru/variant?kim=25098723" />
     <MESSAGE value="пробник дз&#10;&#10;https://kompege.ru/variant?kim=25099163" />
@@ -739,8 +751,9 @@
     <MESSAGE value="дз. ответ: 60065" />
     <MESSAGE value="дз. ответ: 2550" />
     <MESSAGE value="дз. ответ: 56" />
-    <MESSAGE value="дз. ответ: 24" />
     <MESSAGE value="дз. ответ: 141" />
-    <option name="LAST_COMMIT_MESSAGE" value="дз. ответ: 141" />
+    <MESSAGE value="дз. ответ: 42" />
+    <MESSAGE value="дз. ответ: 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз. ответ: 24" />
   </component>
 </project>
