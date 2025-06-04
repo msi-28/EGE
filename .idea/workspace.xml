@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="шпоры 04.06.25 (11-15 задания)" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз 05.06.25. ответ: 88" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +73,8 @@
     "Python.20497b.executor": "Run",
     "Python.20801.executor": "Run",
     "Python.20802.executor": "Run",
+    "Python.20806.executor": "Run",
+    "Python.20807.executor": "Run",
     "Python.21400.executor": "Run",
     "Python.21401.executor": "Run",
     "Python.21404.executor": "Run",
@@ -321,14 +323,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00088" summary="Задание 16 (18123)&#10;&#10;ответ:&#10;1&#10;&#10;https://kompege.ru/variant?kim=25091957">
-      <option name="closed" value="true" />
-      <created>1743709446951</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1743709446951</updated>
     </task>
     <task id="LOCAL-00089" summary="Задание 23 (13099)&#10;&#10;ответ:&#10;6&#10;&#10;https://kompege.ru/variant?kim=25091957">
       <option name="closed" value="true" />
@@ -714,11 +708,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749045424351</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="дз 05.06.25. ответ: 88">
+      <option name="closed" value="true" />
+      <created>1749045679260</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1749045679260</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="13 (10782)&#10;&#10;ответ: 21&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="13 (10781)&#10;&#10;ответ: 8192&#10;https://kompege.ru/variant?kim=25093899" />
     <MESSAGE value="24 (1866) регулярки&#10;&#10;ответ: 2252" />
     <MESSAGE value="регулярное..." />
@@ -743,6 +744,7 @@
     <MESSAGE value="задание 27 (21720)&#10;&#10;тип: dbscan&#10;ответ: &#10;а) 32540 13646&#10;б) 47031 25263&#10;&#10;https://kompege.ru/variant?kim=25097992" />
     <MESSAGE value="задание 27(19747)&#10;тип: кластеры, центр&#10;ответ:&#10;а) 532496 533164&#10;б) 1091104 954833&#10;&#10;https://kompege.ru/variant?kim=25098009" />
     <MESSAGE value="шпоры 04.06.25 (11-15 задания)" />
-    <option name="LAST_COMMIT_MESSAGE" value="шпоры 04.06.25 (11-15 задания)" />
+    <MESSAGE value="дз 05.06.25. ответ: 88" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз 05.06.25. ответ: 88" />
   </component>
 </project>
