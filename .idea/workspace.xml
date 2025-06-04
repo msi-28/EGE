@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз 04.05.25. ответ 69">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз 04.05.25. ответ 30" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +72,7 @@
     "Python.20898.executor": "Run",
     "Python.20899.executor": "Run",
     "Python.21405.executor": "Run",
+    "Python.21407.executor": "Run",
     "Python.23.executor": "Run",
     "Python.24-1.executor": "Run",
     "Python.24-1866.executor": "Run",
@@ -334,14 +333,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00109" summary="13 (10781)&#10;&#10;ответ: 8192&#10;https://kompege.ru/variant?kim=25093899">
-      <option name="closed" value="true" />
-      <created>1744386615705</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1744386615705</updated>
     </task>
     <task id="LOCAL-00110" summary="24 (1866) регулярки&#10;&#10;ответ: 2252">
       <option name="closed" value="true" />
@@ -727,11 +718,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749021230404</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="дз 04.05.25. ответ 30">
+      <option name="closed" value="true" />
+      <created>1749024344571</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1749024344572</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="пробник дз&#10;&#10;https://kompege.ru/variant?kim=25099163" />
     <MESSAGE value="ср&#10;&#10;https://kompege.ru/variant?kim=25099952" />
     <MESSAGE value="24 задания 2022&#10;&#10;https://kompege.ru/variant?kim=25099953" />
     <MESSAGE value="24 задания 2023&#10;&#10;https://kompege.ru/variant?kim=25099956" />
@@ -756,6 +754,7 @@
     <MESSAGE value="дз. ответ: 24" />
     <MESSAGE value="интенсив 03.06.25" />
     <MESSAGE value="дз 04.05.25. ответ 69" />
-    <option name="LAST_COMMIT_MESSAGE" value="дз 04.05.25. ответ 69" />
+    <MESSAGE value="дз 04.05.25. ответ 30" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз 04.05.25. ответ 30" />
   </component>
 </project>
