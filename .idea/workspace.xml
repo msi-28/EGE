@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="шпора 04.06.25">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="шпора 05.06.25 (16-25)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +62,7 @@
     "Python.17547.executor": "Run",
     "Python.17549.executor": "Run",
     "Python.17550.executor": "Run",
+    "Python.17558.executor": "Run",
     "Python.17564.executor": "Run",
     "Python.17625.executor": "Run",
     "Python.17627.executor": "Run",
@@ -353,22 +352,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
-    </task>
-    <task id="LOCAL-00114" summary="24 (17563) регулярки (через finditer)&#10;&#10;ответ: 40">
-      <option name="closed" value="true" />
-      <created>1744475730152</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1744475730152</updated>
-    </task>
-    <task id="LOCAL-00115" summary="24 (21421) регулярки (через finditer)&#10;&#10;ответ: 19">
-      <option name="closed" value="true" />
-      <created>1745072897848</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1745072897848</updated>
     </task>
     <task id="LOCAL-00116" summary="24 (18597) регулярки (через finditer)&#10;&#10;ответ: 45">
       <option name="closed" value="true" />
@@ -746,11 +729,26 @@
       <option name="project" value="LOCAL" />
       <updated>1749125073022</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="шпора 05.06.25 (16-25)">
+      <option name="closed" value="true" />
+      <created>1749131844679</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1749131844679</updated>
+    </task>
+    <task id="LOCAL-00164" summary="шпора 05.06.25 (16-25)">
+      <option name="closed" value="true" />
+      <created>1749131867920</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1749131867920</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="дз. ответ: 66" />
     <MESSAGE value="дз. ответ: 25" />
     <MESSAGE value="дз. ответ: 61" />
     <MESSAGE value="дз. ответ: 14" />
@@ -775,6 +773,7 @@
     <MESSAGE value="дз 04.05.25. ответ 1" />
     <MESSAGE value="дз 04.05.25. ответ 51" />
     <MESSAGE value="шпора 04.06.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="шпора 04.06.25" />
+    <MESSAGE value="шпора 05.06.25 (16-25)" />
+    <option name="LAST_COMMIT_MESSAGE" value="шпора 05.06.25 (16-25)" />
   </component>
 </project>
