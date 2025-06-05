@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз 04.05.25. ответ 38306" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз 04.05.25. ответ 51">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +77,6 @@
     "Python.21407.executor": "Run",
     "Python.21408.executor": "Run",
     "Python.21701.executor": "Run",
-    "Python.21703.executor": "Run",
     "Python.23.executor": "Run",
     "Python.24-1.executor": "Run",
     "Python.24-1866.executor": "Run",
@@ -336,6 +337,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735050013315</updated>
+    </task>
+    <task id="LOCAL-00113" summary="24 (4627) регулярки (через finditer)&#10;&#10;ответ: 327">
+      <option name="closed" value="true" />
+      <created>1744473396931</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1744473396931</updated>
     </task>
     <task id="LOCAL-00114" summary="24 (17563) регулярки (через finditer)&#10;&#10;ответ: 40">
       <option name="closed" value="true" />
@@ -721,18 +730,11 @@
       <option name="project" value="LOCAL" />
       <updated>1749025629691</updated>
     </task>
-    <task id="LOCAL-00162" summary="дз 04.05.25. ответ 38306">
-      <option name="closed" value="true" />
-      <created>1749026689929</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1749026689929</updated>
-    </task>
-    <option name="localTasksCounter" value="163" />
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="дз. ответ: 21" />
     <MESSAGE value="дз. ответ: 66" />
     <MESSAGE value="дз. ответ: 25" />
     <MESSAGE value="дз. ответ: 61" />
@@ -757,7 +759,6 @@
     <MESSAGE value="дз 04.05.25. ответ 1944" />
     <MESSAGE value="дз 04.05.25. ответ 1" />
     <MESSAGE value="дз 04.05.25. ответ 51" />
-    <MESSAGE value="дз 04.05.25. ответ 38306" />
-    <option name="LAST_COMMIT_MESSAGE" value="дз 04.05.25. ответ 38306" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз 04.05.25. ответ 51" />
   </component>
 </project>
