@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз 05.06.25. ответ: 43" />
+    <list default="true" id="c556c671-fb3a-45fd-9ee2-5e02301e0fcd" name="Changes" comment="дз 05.06.25. ответ: 43">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +38,16 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2qfO9X6Kk9bzFQwBbFwtCJWTpb4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10107.executor": "Run",
     "Python.10716.executor": "Run",
     "Python.12671.executor": "Run",
     "Python.13-10781.executor": "Run",
@@ -50,8 +55,11 @@
     "Python.14.executor": "Run",
     "Python.14355.executor": "Run",
     "Python.14650.executor": "Run",
+    "Python.15341.executor": "Run",
     "Python.16367.executor": "Run",
+    "Python.16390.executor": "Run",
     "Python.17518.executor": "Run",
+    "Python.17537.executor": "Run",
     "Python.17543.executor": "Run",
     "Python.17546.executor": "Run",
     "Python.17553.executor": "Run",
@@ -62,10 +70,13 @@
     "Python.17632.executor": "Run",
     "Python.17633.executor": "Run",
     "Python.17676.executor": "Run",
+    "Python.17687.executor": "Run",
     "Python.17859.executor": "Run",
     "Python.18487.executor": "Run",
     "Python.18955.executor": "Run",
+    "Python.19257.executor": "Run",
     "Python.19566a.executor": "Run",
+    "Python.19715.executor": "Run",
     "Python.19715a.executor": "Run",
     "Python.19715b.executor": "Run",
     "Python.19747B.executor": "Run",
@@ -77,6 +88,7 @@
     "Python.20807.executor": "Run",
     "Python.20808.executor": "Run",
     "Python.20809.executor": "Run",
+    "Python.20911.executor": "Run",
     "Python.21400.executor": "Run",
     "Python.21401.executor": "Run",
     "Python.21404.executor": "Run",
@@ -87,6 +99,7 @@
     "Python.21696.executor": "Run",
     "Python.21697.executor": "Run",
     "Python.21708.executor": "Run",
+    "Python.21720.executor": "Run",
     "Python.21745.executor": "Run",
     "Python.21899.executor": "Run",
     "Python.24-8115.executor": "Run",
@@ -302,11 +315,11 @@
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\06-05-25\27\20497" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\шпора\task-26" />
+      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\шпора\task-27" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\шпора\task-15" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\шпора\task-13" />
       <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\шпора\task-3" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\будни\02-05-25 (dbscan)\ср" />
-      <recent name="C:\Users\MVarfolomeeva\Desktop\EGE\домашечки\02-05-25\27-21425" />
     </key>
   </component>
   <component name="RunAnythingCache">
